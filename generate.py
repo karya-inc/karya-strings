@@ -55,6 +55,7 @@ with open(csv_file, 'r') as file:
 
             # Write the XML tree to the file
             tree = ET.ElementTree(root)
+            ET.indent(tree, " ")
             tree.write(xml_file, encoding='utf-8', xml_declaration=True)
 
 print("XML files generated successfully!")
