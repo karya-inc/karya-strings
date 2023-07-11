@@ -31,6 +31,10 @@ with open(csv_file, 'r') as file:
         # Get the name and values from the row
         name = row['name']
 
+        # if ame is blank, skip this row
+        if name == '':
+            continue
+
         # Iterate over each language and its corresponding value
         for lang in headers[1:]:
             value = row[lang]
