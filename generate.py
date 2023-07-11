@@ -1,9 +1,10 @@
 import csv
 import os
 import xml.etree.ElementTree as ET
+import shutil
 
 # Define the CSV file path
-csv_file = './output.csv'
+csv_file = './source.csv'
 
 # Define the output folder paths for each language
 output_folders = {
@@ -20,6 +21,8 @@ output_folders = {
     'ta': './generated/values-ta',
     'te': './generated/values-te',
 }
+
+shutil.rmtree("./generated")
 
 # Read the CSV file
 with open(csv_file, 'r') as file:
@@ -38,6 +41,8 @@ with open(csv_file, 'r') as file:
         # Iterate over each language and its corresponding value
         for lang in headers[1:]:
             value = row[lang]
+            if value == '':
+                continue
 
             # Create the XML file path
             output_folder = output_folders[lang]
