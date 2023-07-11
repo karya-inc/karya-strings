@@ -8,18 +8,18 @@ csv_file = './source.csv'
 
 # Define the output folder paths for each language
 output_folders = {
-    'as': './android_res/values-as',
-    'bn': './android_res/values-bn',
-    'en': './android_res/values',
-    'gu': './android_res/values-gu',
-    'hi': './android_res/values-hi',
-    'kn': './android_res/values-kn',
-    'ml': './android_res/values-ml',
-    'mr': './android_res/values-mr',
-    'or': './android_res/values-or',
-    'pa': './android_res/values-pa',
-    'ta': './android_res/values-ta',
-    'te': './android_res/values-te',
+    'as': 'values-as',
+    'bn': 'values-bn',
+    'en': 'values',
+    'gu': 'values-gu',
+    'hi': 'values-hi',
+    'kn': 'values-kn',
+    'ml': 'values-ml',
+    'mr': 'values-mr',
+    'or': 'values-or',
+    'pa': 'values-pa',
+    'ta': 'values-ta',
+    'te': 'values-te',
 }
 
 shutil.rmtree("./android_res", ignore_errors=True)
@@ -45,7 +45,7 @@ with open(csv_file, 'r') as file:
                 continue
 
             # Create the XML file path
-            output_folder = output_folders[lang]
+            output_folder = "./android_res/"+ output_folders[lang]
             os.makedirs(output_folder, exist_ok=True)
             xml_file = os.path.join(output_folder, 'strings.xml')
 

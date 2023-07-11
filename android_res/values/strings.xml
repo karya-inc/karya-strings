@@ -142,10 +142,8 @@
   <string name="state_prompt">State</string>
   <string name="district_prompt">District </string>
   <string name="village_prompt">Village Name</string>
-  <string name="pincode_prompt">Pincode</string>
   <string name="language_prompt">What languages do you know and what is your proficiency?</string>
   <string name="yob_prompt">Age (year of birth)</string>
-  <string name="genger_prompt">Gender</string>
   <string name="marital_status_prompt">Marital Status</string>
   <string name="family_strength_prompt">How many people live in your household</string>
   <string name="education_prompt">Highest education level</string>
