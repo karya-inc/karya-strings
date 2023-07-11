@@ -167,4 +167,5 @@
   <string name="bank_branch_name_prompt">Bank Branch Name</string>
   <string name="bank_branch_address_prompt">Bank Branch Address</string>
   <string name="bank_ifsc_prompt">Bank IFSC Code</string>
+  <string name="processing">Processing</string>
 </resources>
