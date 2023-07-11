@@ -8,21 +8,21 @@ csv_file = './source.csv'
 
 # Define the output folder paths for each language
 output_folders = {
-    'as': './generated/values-as',
-    'bn': './generated/values-bn',
-    'en': './generated/values',
-    'gu': './generated/values-gu',
-    'hi': './generated/values-hi',
-    'kn': './generated/values-kn',
-    'ml': './generated/values-ml',
-    'mr': './generated/values-mr',
-    'or': './generated/values-or',
-    'pa': './generated/values-pa',
-    'ta': './generated/values-ta',
-    'te': './generated/values-te',
+    'as': './android_res/values-as',
+    'bn': './android_res/values-bn',
+    'en': './android_res/values',
+    'gu': './android_res/values-gu',
+    'hi': './android_res/values-hi',
+    'kn': './android_res/values-kn',
+    'ml': './android_res/values-ml',
+    'mr': './android_res/values-mr',
+    'or': './android_res/values-or',
+    'pa': './android_res/values-pa',
+    'ta': './android_res/values-ta',
+    'te': './android_res/values-te',
 }
 
-shutil.rmtree("./generated")
+shutil.rmtree("./android_res", ignore_errors=True)
 
 # Read the CSV file
 with open(csv_file, 'r') as file:
@@ -67,4 +67,4 @@ with open(csv_file, 'r') as file:
             ET.indent(tree, " ")
             tree.write(xml_file, encoding='utf-8', xml_declaration=True)
 
-print("XML files generated successfully!")
+print("XML files android_res successfully!")
