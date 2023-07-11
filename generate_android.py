@@ -8,9 +8,9 @@ csv_file = './source.csv'
 
 # Define the output folder paths for each language
 output_folders = {
+    'en': 'values',
     'as': 'values-as',
     'bn': 'values-bn',
-    'en': 'values',
     'gu': 'values-gu',
     'hi': 'values-hi',
     'kn': 'values-kn',
