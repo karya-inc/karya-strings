@@ -140,7 +140,7 @@
   <string name="full_name_prompt">Full Name</string>
   <string name="phone_number_prompt">Phone number</string>
   <string name="state_prompt">State</string>
-  <string name="district_prompt">District </string>
+  <string name="district_prompt">District</string>
   <string name="village_prompt">Village Name</string>
   <string name="language_prompt">What languages do you know and what is your proficiency?</string>
   <string name="yob_prompt">Age (year of birth)</string>
@@ -168,4 +168,6 @@
   <string name="bank_branch_address_prompt">Bank Branch Address</string>
   <string name="bank_ifsc_prompt">Bank IFSC Code</string>
   <string name="processing">Processing</string>
+  <string name="completed_on">Completed on %s</string>
+  <string name="no_transactions_to_show">No transactions to show</string>
 </resources>
