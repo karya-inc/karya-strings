@@ -93,9 +93,9 @@
   <string name="err_numeric_input">কেৱল সংখ্যাগত ইনপুটৰ অনুমতি দিয়া হৈছে</string>
   <string name="err_decimal_input">কেৱল দশমিক সংখ্যাগত ইনপুটৰ অনুমতি দিয়া হৈছে</string>
   <string name="msg_sync">আপুনি চাৰ্ভাৰলৈ জমা দিব পৰা কামসমূহ সম্পূৰ্ণ কৰিছে। আপুনি এতিয়াই কামবোৰ জমা দিব বিচাৰেনে?</string>
-  <string name="edit_successful">এডিট সফল হ'ল!</string>
+  <string name="edit_successful">এডিট সফল হ\'ল!</string>
   <string name="correct_answer">ওপৰৰ উত্তৰটো শুদ্ধ আছিল!</string>
-  <string name="wrong_answer">ওপৰৰ উত্তৰটো ভুল আছিল। শুদ্ধ উত্তৰ হ'ল %s</string>
+  <string name="wrong_answer">ওপৰৰ উত্তৰটো ভুল আছিল। শুদ্ধ উত্তৰ হ\'ল %s</string>
   <string name="complete_registations">পঞ্জীয়ন সম্পূৰ্ণ কৰক</string>
   <string name="force_sync">জোৰপূর্বক ছিংক কৰক</string>
   <string name="not_you">আপুনি নহয়?</string>
@@ -103,7 +103,7 @@
   <string name="error_taking_photo">ফটো তোলাৰ সময়ত ত্ৰুটি! অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক।</string>
   <string name="retake_photo">পুনৰ ফটো লওঁক</string>
   <string name="skipped">এৰা হৈছে</string>
-  <string name="error_taking_video">ভিডিঅ' আৰম্ভ কৰাৰ সময়ত ত্ৰুটি ! অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক</string>
+  <string name="error_taking_video">ভিডিঅ\' আৰম্ভ কৰাৰ সময়ত ত্ৰুটি ! অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক</string>
   <string name="submit_profile">প্ৰফাইল জমা দিয়ক</string>
   <string name="sync_already_in_progress">ইতিমধ্যে ছিঙ্কৰ প্ৰতিক্ৰিয়া চলি আছে। অনুগ্ৰহ কৰি পাঁচ মিনিটৰ পিছত পুনৰ চেষ্টা কৰক!</string>
   <string name="expired">ম্যাদ উকলিছে</string>

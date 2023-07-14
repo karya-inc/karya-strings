@@ -95,7 +95,7 @@
   <string name="msg_sync">സെർവറിലേക്ക് സമർപ്പിക്കാൻ കഴിയുന്ന ടാസ്കുകൾ നിങ്ങൾ പൂർത്തിയാക്കി. ടാസ്‌ക്കുകൾ ഇപ്പോൾ സമർപ്പിക്കണോ?</string>
   <string name="edit_successful">വിജയകരമായി എഡിറ്റ് ചെയ്‌തു!</string>
   <string name="correct_answer">മുകളിലെ ഉത്തരം ശരിയാണ്!</string>
-  <string name="wrong_answer">മുകളിൽ പറഞ്ഞ ഉത്തരം തെറ്റായിരുന്നു. ശരിയായ ഉത്തരം % ആണ്</string>
+  <string name="wrong_answer">മുകളിൽ പറഞ്ഞ ഉത്തരം തെറ്റായിരുന്നു. ശരിയായ ഉത്തരം %s ആണ്</string>
   <string name="complete_registations">രജിസ്ട്രേഷൻ പൂർത്തിയാക്കൂ</string>
   <string name="force_sync">നിർബന്ധിത സിങ്ക്</string>
   <string name="not_you">നിങ്ങൾ അല്ലെ?</string>
