@@ -24,12 +24,8 @@ output_folders = {
 
 shutil.rmtree("./android_res", ignore_errors=True)
 
-def escape( str_xml: str ):
-    # str_xml = str_xml.replace("&", "&amp;")
-    # str_xml = str_xml.replace("<", "&lt;")
-    # str_xml = str_xml.replace(">", "&gt;")
-    # str_xml = str_xml.replace("\"", "&quot;")
-    # str_xml = str_xml.replace("'", "&apos;")
+def escape_quote( str_xml: str ):
+    str_xml = str_xml.replace("'", "\\'")
     return str_xml
 
 # Read the CSV file
@@ -51,7 +47,6 @@ with open(csv_file, 'r') as file:
             value = row[lang]
             if value == '':
                 continue
-            value = escape(value)
 
             # Create the XML file path
             output_folder = "./android_res/"+ output_folders[lang]
@@ -69,7 +64,7 @@ with open(csv_file, 'r') as file:
             # Create the 'string' element with the name attribute and text value
             string_elem = ET.SubElement(root, 'string')
             string_elem.set('name', name)
-            string_elem.text = value
+            string_elem.text = escape_quote(value)
 
             # Write the XML tree to the file
             tree = ET.ElementTree(root)

@@ -175,5 +175,5 @@
   <string name="you_need_to_record_atleast">You need to record at least %d seconds</string>
   <string name="max_recording_length_reached">Maximun recording length %d seconds reached. Recording stopped.</string>
   <string name="reached_max_length">Reached maximum length for text.</string>
-  <string name="you_need_to_type_alteast">You need to type atleast %d characters</string>
+  <string name="you_need_to_type_alteast">You need to type atleast &lt; %d characters</string>
 </resources>

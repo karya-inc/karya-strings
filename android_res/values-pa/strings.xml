@@ -79,7 +79,7 @@
   <string name="task_not_supported_yet">ਇਹ ਕੰਮ ਸਮਰਥਿਤ ਨਹੀਂ ਹੈ</string>
   <string name="update_profile_photo">ਪ੍ਰੋਫਾਈਲ ਫੋਟੋ ਅੱਪਡੇਟ ਕਰੋ</string>
   <string name="no_task_available">ਕੋਈ ਹੋਰ ਕੰਮ ਉਪਲਬਧ ਨਹੀਂ ਹਨ!</string>
-  <string name="go_to_dashboard">ਡੈਸ਼ਬੋਰਡ 'ਤੇ ਜਾਓ</string>
+  <string name="go_to_dashboard">ਡੈਸ਼ਬੋਰਡ \'ਤੇ ਜਾਓ</string>
   <string name="resend_OTP">OTP ਦੁਬਾਰਾ ਭੇਜੋ</string>
   <string name="resent_OTP">OTP ਸਫਲਤਾਪੂਰਵਕ ਮੁੜ ਭੇਜਿਆ ਗਿਆ!</string>
   <string name="skip">ਛੱਡੋ</string>
@@ -109,7 +109,7 @@
   <string name="expired">ਮਿਆਦ ਪੁੱਗੀ</string>
   <string name="edit">ਸੋਧ</string>
   <string name="notification_channel_id">ਸਿੰਕ_ਨੋਟਿਫ਼ੀਕੇਸ਼ਨ_ਚੈਨਲ</string>
-  <string name="sync_channel_desc">ਐਪ ਦੇ ਸਰਵਰ ਨਾਲ ਸਿੰਕ ਕੀਤੇ ਜਾਣ 'ਤੇ ਸੂਚਨਾ ਪ੍ਰਾਪਤ ਹੋਣ ਦਿਓ।</string>
+  <string name="sync_channel_desc">ਐਪ ਦੇ ਸਰਵਰ ਨਾਲ ਸਿੰਕ ਕੀਤੇ ਜਾਣ \'ਤੇ ਸੂਚਨਾ ਪ੍ਰਾਪਤ ਹੋਣ ਦਿਓ।</string>
   <string name="record_video">ਵਿਡੀਓ ਰਿਕਾਰਡ ਕਰੋ</string>
   <string name="record_again">ਦੁਬਾਰਾ ਰਿਕਾਰਡ ਕਰੋ</string>
   <string name="output_not_found">%s ਆਉਟਪੁੱਟ ਨਹੀਂ ਲੱਭੀ</string>
@@ -118,9 +118,9 @@
   <string name="name">ਕਿਰਪਾ ਕਰਕੇ ਆਪਣਾ ਨਾਮ ਦਾਖਲ ਕਰੋ ਜਿਵੇਂ ਕਿ ਇਹ ਤੁਹਾਡੇ ਬੈਂਕ ਰਿਕਾਰਡਾਂ ਵਿੱਚ ਦਿਖਾਈ ਦਿੰਦਾ ਹੈ</string>
   <string name="upi_request">ਕਿਰਪਾ ਕਰਕੇ ਆਪਣਾ ਯੂ.ਪੀ.ਆਈ ਦਰਜ ਕਰੋ</string>
   <string name="bank_account_no_request">ਕਿਰਪਾ ਕਰਕੇ ਆਪਣਾ ਬੈਂਕ ਖਾਤਾ ਨੰਬਰ ਦਾਖਲ ਕਰੋ</string>
-  <string name="bank_ifsc_request">ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੀ ਆਈ ਏਫ਼ ਏਸ ਸੀ ਦਾਖਲ ਕਰੋ ਜਿਵੇਂ ਕਿ ਇਹ ਤੁਹਾਡੀ ਪਾਸਬੁੱਕ 'ਤੇ ਦਿਖਾਈ ਦਿੰਦਾ ਹੈ</string>
-  <string name="account_info_processing">ਕਿਰਪਾ ਕਰਕੇ ਉਡੀਕੋ ਜਦ ਤੱਕ ਅਸੀਂ ਤੁਹਾਡੇ ਬੈਂਕ ਖਾਤੇ ਦੀ ਜਾਣਕਾਰੀ 'ਤੇ ਪ੍ਰਕਿਰਿਆ ਕਰ ਰਹੇ ਹੁੰਦੇ ਹਾਂ। ਵਾਪਸ ਆਓ ਅਤੇ ਬਾਅਦ ਵਿੱਚ ਜਾਂਚ ਕਰੋ।</string>
-  <string name="payment_confirmation_message">ਅਸੀਂ ਤੁਹਾਨੂੰ ਤੁਹਾਡੇ ਬੈਂਕ ਖਾਤੇ 'ਤੇ 2 ਰੁਪਏ ਭੇਜੇ ਹਨ। ਕੀ ਤੁਹਾਨੂੰ ਰਕਮ ਪ੍ਰਾਪਤ ਹੋਈ ਸੀ?</string>
+  <string name="bank_ifsc_request">ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੀ ਆਈ ਏਫ਼ ਏਸ ਸੀ ਦਾਖਲ ਕਰੋ ਜਿਵੇਂ ਕਿ ਇਹ ਤੁਹਾਡੀ ਪਾਸਬੁੱਕ \'ਤੇ ਦਿਖਾਈ ਦਿੰਦਾ ਹੈ</string>
+  <string name="account_info_processing">ਕਿਰਪਾ ਕਰਕੇ ਉਡੀਕੋ ਜਦ ਤੱਕ ਅਸੀਂ ਤੁਹਾਡੇ ਬੈਂਕ ਖਾਤੇ ਦੀ ਜਾਣਕਾਰੀ \'ਤੇ ਪ੍ਰਕਿਰਿਆ ਕਰ ਰਹੇ ਹੁੰਦੇ ਹਾਂ। ਵਾਪਸ ਆਓ ਅਤੇ ਬਾਅਦ ਵਿੱਚ ਜਾਂਚ ਕਰੋ।</string>
+  <string name="payment_confirmation_message">ਅਸੀਂ ਤੁਹਾਨੂੰ ਤੁਹਾਡੇ ਬੈਂਕ ਖਾਤੇ \'ਤੇ 2 ਰੁਪਏ ਭੇਜੇ ਹਨ। ਕੀ ਤੁਹਾਨੂੰ ਰਕਮ ਪ੍ਰਾਪਤ ਹੋਈ ਸੀ?</string>
   <string name="payment_registration_failed">ਬੈਂਕ ਖਾਤੇ ਦੀ ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਅਸਫਲ %s ਰਹੀ</string>
   <string name="payment_registration_rejected">ਅਸੀਂ ਪੁਸ਼ਟੀ ਨਹੀਂ ਕਰ ਸਕਦੇ ਕਿ ਕੀ ਤੁਹਾਨੂੰ 2 ਰੁਪਏ ਪ੍ਰਾਪਤ ਹੋਏ ਹਨ।</string>
   <string name="cannot_connect_to_server">ਅਸੀਂ ਸਰਵਰ ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਦੇ ਯੋਗ ਨਹੀਂ ਹਾਂ। ਕਿਰਪਾ ਕਰਕੇ ਸਹਾਇਤਾ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।</string>
@@ -156,11 +156,11 @@
   <string name="is_personal_phone_prompt">ਕੀ ਇਹ ਤੁਹਾਡਾ ਨਿੱਜੀ ਫ਼ੋਨ ਹੈ?</string>
   <string name="phone_shared_with_prompt">ਜੇਕਰ ਨਹੀਂ,ਤਾਂ ਤੁਸੀਂ ਆਪਣਾ ਫ਼ੋਨ ਕਿਸ ਨਾਲ ਸਾਂਝਾ ਕਰਦੇ ਹੋ?</string>
   <string name="comfort_in_using_phone_prompt">ਤੁਸੀਂ ਆਪਣਾ ਫ਼ੋਨ ਵਰਤਣਾ ਕਿੰਨਾ ਆਰਾਮਦਾਇਕ ਮਹਿਸੂਸ ਕਰਦੇ ਹੋ?</string>
-  <string name="typical_phone_usage_prompt">ਤੁਸੀਂ ਆਮ ਤੌਰ 'ਤੇ ਆਪਣੇ ਫ਼ੋਨ ਦੀ ਵਰਤੋਂ ਕਿਸ ਲਈ ਕਰਦੇ ਹੋ? (ਲਾਗੂ ਹੋਣ ਵਾਲੇ ਸਭ ਦੀ ਜਾਂਚ ਕਰੋ)</string>
+  <string name="typical_phone_usage_prompt">ਤੁਸੀਂ ਆਮ ਤੌਰ \'ਤੇ ਆਪਣੇ ਫ਼ੋਨ ਦੀ ਵਰਤੋਂ ਕਿਸ ਲਈ ਕਰਦੇ ਹੋ? (ਲਾਗੂ ਹੋਣ ਵਾਲੇ ਸਭ ਦੀ ਜਾਂਚ ਕਰੋ)</string>
   <string name="first_time_with_karya_prompt">ਕੀ ਇਹ ਤੁਹਾਡੀ ਪਹਿਲੀ ਵਾਰ ਕਰਿਆ ਨਾਲ ਕੰਮ ਕਰ ਰਹੀ ਹੈ</string>
   <string name="no_of_past_projects_prompt">ਜੇਕਰ ਨਹੀਂ, ਤਾਂ ਤੁਸੀਂ ਕਰਿਆ ਨਾਲ ਪਿਛਲੇ ਕਿੰਨੇ ਪ੍ਰੋਜੈਕਟ ਕੀਤੇ ਹਨ?</string>
   <string name="excitement_for_work_prompt">ਕੀ ਤੁਸੀਂ ਕੰਮ ਸ਼ੁਰੂ ਕਰਨ ਬਾਰੇ ਉਤਸ਼ਾਹਿਤ ਹੋ?</string>
-  <string name="thanking_prompt">ਇਸ ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਫਾਰਮ ਨੂੰ ਭਰਨ ਲਈ ਤੁਹਾਡਾ ਧੰਨਵਾਦ! ਅਸੀਂ ਤੁਹਾਨੂੰ ਤੁਹਾਡੇ ਸਮੇਂ ਲਈ INR 5 ਦੀ ਪੇਸ਼ਕਸ਼ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹਾਂ। ਆਪਣੇ ਪੈਸੇ ਦਾ ਦਾਅਵਾ ਕਰਨ ਲਈ ਕਿਰਪਾ ਕਰਕੇ ਅਗਲੇ ਪੰਨੇ 'ਤੇ ਆਪਣੇ ਬੈਂਕਿੰਗ ਵੇਰਵੇ ਦਰਜ ਕਰੋ। ਕੀ ਤੁਸੀਂ ਡੀ.ਏ.ਆਈ.ਏ ਟੈਕ ਪ੍ਰਾਈਵੇਟ ਲਿਮਿਟੇਡ ਨੂੰ ਆਪਣੀ ਬੈਂਕਿੰਗ ਜਾਣਕਾਰੀ ਸਾਂਝੀ ਕਰਨ ਲਈ ਸਹਿਮਤੀ ਦਿੰਦੇ ਹੋ?</string>
+  <string name="thanking_prompt">ਇਸ ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਫਾਰਮ ਨੂੰ ਭਰਨ ਲਈ ਤੁਹਾਡਾ ਧੰਨਵਾਦ! ਅਸੀਂ ਤੁਹਾਨੂੰ ਤੁਹਾਡੇ ਸਮੇਂ ਲਈ INR 5 ਦੀ ਪੇਸ਼ਕਸ਼ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹਾਂ। ਆਪਣੇ ਪੈਸੇ ਦਾ ਦਾਅਵਾ ਕਰਨ ਲਈ ਕਿਰਪਾ ਕਰਕੇ ਅਗਲੇ ਪੰਨੇ \'ਤੇ ਆਪਣੇ ਬੈਂਕਿੰਗ ਵੇਰਵੇ ਦਰਜ ਕਰੋ। ਕੀ ਤੁਸੀਂ ਡੀ.ਏ.ਆਈ.ਏ ਟੈਕ ਪ੍ਰਾਈਵੇਟ ਲਿਮਿਟੇਡ ਨੂੰ ਆਪਣੀ ਬੈਂਕਿੰਗ ਜਾਣਕਾਰੀ ਸਾਂਝੀ ਕਰਨ ਲਈ ਸਹਿਮਤੀ ਦਿੰਦੇ ਹੋ?</string>
   <string name="bank_account_name_prompt">ਬੈਂਕ ਖਾਤੇ ਦਾ ਨਾਮ</string>
   <string name="bank_account_number_prompt">ਬੈਂਕ ਖਾਤਾ ਨੰਬਰ</string>
   <string name="bank_name_prompt">ਬੈਂਕ ਦਾ ਨਾਮ</string>
@@ -168,6 +168,6 @@
   <string name="bank_branch_address_prompt">ਬੈਂਕ ਸ਼ਾਖਾ ਦਾ ਪਤਾ</string>
   <string name="bank_ifsc_prompt">ਬੈਂਕ IFSC ਕੋਡ</string>
   <string name="processing">ਕਾਰਵਾਈ</string>
-  <string name="completed_on">ਪ੍ਰਤੀਸ਼ਤ 'ਤੇ ਪੂਰਾ ਕੀਤਾ</string>
+  <string name="completed_on">ਪ੍ਰਤੀਸ਼ਤ \'ਤੇ ਪੂਰਾ ਕੀਤਾ</string>
   <string name="no_transactions_to_show">ਦਿਖਾਉਣ ਲਈ ਕੋਈ ਲੈਣ-ਦੇਣ ਨਹੀਂ</string>
 </resources>
