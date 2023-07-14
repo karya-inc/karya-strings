@@ -24,6 +24,14 @@ output_folders = {
 
 shutil.rmtree("./android_res", ignore_errors=True)
 
+def escape( str_xml: str ):
+    # str_xml = str_xml.replace("&", "&amp;")
+    # str_xml = str_xml.replace("<", "&lt;")
+    # str_xml = str_xml.replace(">", "&gt;")
+    # str_xml = str_xml.replace("\"", "&quot;")
+    # str_xml = str_xml.replace("'", "&apos;")
+    return str_xml
+
 # Read the CSV file
 with open(csv_file, 'r') as file:
     reader = csv.DictReader(file)
@@ -43,6 +51,7 @@ with open(csv_file, 'r') as file:
             value = row[lang]
             if value == '':
                 continue
+            value = escape(value)
 
             # Create the XML file path
             output_folder = "./android_res/"+ output_folders[lang]

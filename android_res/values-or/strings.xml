@@ -4,7 +4,7 @@
   <string name="lang_name">ଓଡ଼ିଆ</string>
   <string name="continue_in_lang">ଓଡ଼ିଆରେ ଜାରି ରଖନ୍ତୁ</string>
   <string name="phone_number">ଫୋନ୍ ନମ୍ବର</string>
-  <string name="msg_input_phone_number">କରିଆ\' ଆକାଉଣ୍ଟ୍ ତିଆରି କରିବା ପାଇଁ ଆପଣଙ୍କ ଫୋନ୍ ନମ୍ବରର ଆବଶ୍ୟକତା ରହିଛି। ଯଦି ଆପଣ ବିଦ୍ୟମାନ ବ୍ୟବହାରକାରୀ, ତେବେ ରେଜିଷ୍ଟର ହୋଇଥିବା ଫୋନ୍ ନମ୍ବର ବ୍ୟବହାର କରନ୍ତୁ।</string>
+  <string name="msg_input_phone_number">କରିଆ' ଆକାଉଣ୍ଟ୍ ତିଆରି କରିବା ପାଇଁ ଆପଣଙ୍କ ଫୋନ୍ ନମ୍ବରର ଆବଶ୍ୟକତା ରହିଛି। ଯଦି ଆପଣ ବିଦ୍ୟମାନ ବ୍ୟବହାରକାରୀ, ତେବେ ରେଜିଷ୍ଟର ହୋଇଥିବା ଫୋନ୍ ନମ୍ବର ବ୍ୟବହାର କରନ୍ତୁ।</string>
   <string name="otp_title">OTP ଭେରିଫିକେସନ</string>
   <string name="msg_input_otp">%s କୁ ପଠାଯାଇଥିବା ୬ ଅଙ୍କ ବିଶିଷ୍ଟ OTP କୁ ଦାଖଲ କରନ୍ତୁ</string>
   <string name="otp">OTP</string>
@@ -18,13 +18,13 @@
   <string name="accept">ଗ୍ରହଣ କରିବା</string>
   <string name="reject">ପ୍ରତ୍ୟାଖ୍ୟାନ କରିବା</string>
   <string name="profile">ପାର୍ଶ୍ବଚିତ୍ର</string>
-  <string name="assistant_profile_msg">କରିଆ\' ଆପ୍ ବ୍ୟବହାର ଜାରି ରଖିବା ପାଇଁ, ଦୟାକରି ଏହି ପ୍ରଶ୍ନଗୁଡ଼ିକର ଉତ୍ତର ଦେଇ ଆପଣଙ୍କର ବ୍ୟବହାରକାରୀ ରୁପରେଖାକୁ ସମ୍ପୂର୍ଣ୍ଣ କରନ୍ତୁ।</string>
-  <string name="name_prompt">ତୁମର ନାଁ କ\'ଣ?</string>
+  <string name="assistant_profile_msg">କରିଆ' ଆପ୍ ବ୍ୟବହାର ଜାରି ରଖିବା ପାଇଁ, ଦୟାକରି ଏହି ପ୍ରଶ୍ନଗୁଡ଼ିକର ଉତ୍ତର ଦେଇ ଆପଣଙ୍କର ବ୍ୟବହାରକାରୀ ରୁପରେଖାକୁ ସମ୍ପୂର୍ଣ୍ଣ କରନ୍ତୁ।</string>
+  <string name="name_prompt">ତୁମର ନାଁ କ'ଣ?</string>
   <string name="blank_name">ନାଁ, ଖାଲି ରହିପାରିବ ନାହିଁ</string>
   <string name="age_prompt">ଆପଣଙ୍କ ଜନ୍ମ ବର୍ଷ କେତେ?</string>
   <string name="invalid_yob">ଅବୈଧ ଜନ୍ମ ବର୍ଷ</string>
-  <string name="gender_prompt">ତୁମର ଲିଙ୍ଗ କ\'ଣ?</string>
-  <string name="pincode_prompt">ଆପଣ ରହୁଥିବା ଜିଲ୍ଲାର ପିନକୋଡ କ\'ଣ?</string>
+  <string name="gender_prompt">ତୁମର ଲିଙ୍ଗ କ'ଣ?</string>
+  <string name="pincode_prompt">ଆପଣ ରହୁଥିବା ଜିଲ୍ଲାର ପିନକୋଡ କ'ଣ?</string>
   <string name="native_language_prompt">କେଉଁ ଭାଷା କହିବାକୁ ଆପଣ ସବୁଠାରୁ ସହଜ ମନେ କରନ୍ତି?</string>
   <string name="sync_message">ସର୍ଭର ସହିତ ଯୋଗାୟୋଗ କରୁଅଛି</string>
   <string name="project_code">ପ୍ରକଳ୍ପ ସଙ୍କେତ</string>
