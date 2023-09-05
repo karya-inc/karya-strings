@@ -176,4 +176,18 @@
   <string name="max_recording_length_reached">Maximun recording length %d seconds reached. Recording stopped.</string>
   <string name="reached_max_length">Reached maximum length for text.</string>
   <string name="you_need_to_type_alteast">You need to type atleast %d characters</string>
+  <string name="clip_rerecord_message">This audio is clipped. Please edit and re-record</string>
+  <string name="empty_task_message">Tap the \'+\' button to add a project code</string>
+  <string name="male">Male</string>
+  <string name="female">Female</string>
+  <string name="transgender">Transgender</string>
+  <string name="non_binary">Non binary / Non-Conforming</string>
+  <string name="prefer_not_to_say">Prefer not to say</string>
+  <string name="project">Project</string>
+  <string name="yes">Yes</string>
+  <string name="no">No</string>
+  <string name="good">Good</string>
+  <string name="bad">Bad</string>
+  <string name="type_here">Type here</string>
+  <string name="select_from_other">Select from other</string>
 </resources>

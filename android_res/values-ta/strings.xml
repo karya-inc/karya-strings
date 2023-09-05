@@ -136,8 +136,7 @@
   <string name="receiving_db_updates">தரவுத்தள புதுப்பிப்பைப் பெறுகிறது</string>
   <string name="downloading_input_files">உள்ளீட்டு பைல்கள் டவுன்லோட் ஆகிறது</string>
   <string name="fetching_verified_assignments">சரிபார்க்கப்பட்ட அசைன்மென்ட்கள் பெறப்படுகிறது</string>
-  <string name="uploading_output_files">
-வெளியீடு பைல்கள் அப்லோட் ஆகிறது</string>
+  <string name="uploading_output_files">வெளியீடு பைல்கள் அப்லோட் ஆகிறது</string>
   <string name="full_name_prompt">முழு பெயர்</string>
   <string name="phone_number_prompt">தொலைபேசி எண்</string>
   <string name="state_prompt">மாநிலம்</string>

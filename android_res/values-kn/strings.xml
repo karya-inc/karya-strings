@@ -87,10 +87,8 @@
   <string name="stop">ನಿಲ್ಲಿಸು</string>
   <string name="record">ರೆಕಾರ್ಡ್ ಮಾಡಿ</string>
   <string name="cancel">ರದ್ದುಮಾಡಿ</string>
-  <string name="sync">ಸಿಂಕ್ ಮಾಡಿ
-</string>
-  <string name="acra_toast_text">ದೋಷ ವರದಿಯನ್ನು ಕಳುಹಿಸಲಾಗಿದೆ
-</string>
+  <string name="sync">ಸಿಂಕ್ ಮಾಡಿ</string>
+  <string name="acra_toast_text">ದೋಷ ವರದಿಯನ್ನು ಕಳುಹಿಸಲಾಗಿದೆ</string>
   <string name="err_blank_input">ಖಾಲಿ ಇನ್‌ಪುಟ್‌ಗಳನ್ನು ಅನುಮತಿಸಲಾಗುವುದಿಲ್ಲ.</string>
   <string name="err_numeric_input">ಸಂಖ್ಯಾ ಇನ್‌ಪುಟ್‌ಗಳನ್ನು ಮಾತ್ರ ಅನುಮತಿಸಲಾಗಿದೆ.</string>
   <string name="err_decimal_input">ದಶಮಾಂಶ ಸಂಖ್ಯಾತ್ಮಕ ಇನ್‌ಪುಟ್‌ಗಳನ್ನು ಮಾತ್ರ ಅನುಮತಿಸಲಾಗಿದೆ.</string>
@@ -139,67 +137,37 @@
   <string name="downloading_input_files">ಇನ್‌ಪುಟ್ ಫೈಲ್‌ಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ.</string>
   <string name="fetching_verified_assignments">ಪರಿಶೀಲಿಸಿದ ಕಾರ್ಯಯೋಜನೆಗಳನ್ನು ಪಡೆಯಲಾಗುತ್ತಿದೆ.</string>
   <string name="uploading_output_files">ಔಟ್‌ಪುಟ್ ಫೈಲ್‌ಗಳನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ.</string>
-  <string name="full_name_prompt">ಪೂರ್ಣ ಹೆಸರು
-</string>
-  <string name="phone_number_prompt">ದೂರವಾಣಿ ಸಂಖ್ಯೆ
-</string>
+  <string name="full_name_prompt">ಪೂರ್ಣ ಹೆಸರು</string>
+  <string name="phone_number_prompt">ದೂರವಾಣಿ ಸಂಖ್ಯೆ</string>
   <string name="state_prompt">ರಾಜ್ಯ</string>
   <string name="district_prompt">ಜಿಲ್ಲೆ</string>
-  <string name="village_prompt">ಗ್ರಾಮದ ಹೆಸರು
-</string>
-  <string name="language_prompt">ನಿಮಗೆ ಯಾವ ಭಾಷೆಗಳು ಗೊತ್ತು ಮತ್ತು ನಿಮ್ಮ ಪ್ರಾವೀಣ್ಯತೆ ಏನು?
-</string>
-  <string name="yob_prompt">ವಯಸ್ಸು (ಹುಟ್ಟಿದ ವರ್ಷ)
-</string>
-  <string name="marital_status_prompt">ವೈವಾಹಿಕ ಸ್ಥಿತಿ
-</string>
-  <string name="family_strength_prompt">ನಿಮ್ಮ ಮನೆಯಲ್ಲಿ ಎಷ್ಟು ಜನರು ವಾಸಿಸುತ್ತಿದ್ದಾರೆ
-</string>
-  <string name="education_prompt">ಅತ್ಯುನ್ನತ ಶಿಕ್ಷಣ ಮಟ್ಟ
-</string>
-  <string name="annual_household_income_prompt">ವಾರ್ಷಿಕ ಗೃಹ ಆದಾಯ
-</string>
-  <string name="annual_personal_income_current_year_prompt">ವಾರ್ಷಿಕ ವೈಯಕ್ತಿಕ ಆದಾಯ (ಪ್ರಸ್ತುತ ವರ್ಷ)
-</string>
-  <string name="annual_personal_income_past_year_prompt">ವಾರ್ಷಿಕ ವೈಯಕ್ತಿಕ ಆದಾಯ (ಕಳೆದ ವರ್ಷ)
-</string>
-  <string name="employment_status_prompt">ನಿಮ್ಮ ಉದ್ಯೋಗದ ಸ್ಥಿತಿ ಏನು
-</string>
-  <string name="income_source_prompt">ನಿಮ್ಮ ಮುಖ್ಯ ಆದಾಯದ ಮೂಲ ಯಾವುದು?
-</string>
-  <string name="working_months_prompt">ಸರಾಸರಿಯಾಗಿ, ನೀವು ವರ್ಷದಲ್ಲಿ ಎಷ್ಟು ತಿಂಗಳು ಕೆಲಸ ಮಾಡುತ್ತೀರಿ?
-</string>
-  <string name="is_personal_phone_prompt">ಇದು ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಫೋನ್ ಆಗಿದೆಯೇ?
-</string>
-  <string name="phone_shared_with_prompt">ಇಲ್ಲದಿದ್ದರೆ: ನಿಮ್ಮ ಫೋನ್ ಅನ್ನು ನೀವು ಯಾರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳುತ್ತೀರಿ?
-</string>
-  <string name="comfort_in_using_phone_prompt">ನಿಮ್ಮ ಫೋನ್ ಅನ್ನು ಬಳಸುವಾಗ ನಿಮಗೆ ಎಷ್ಟು ಆರಾಮದಾಯಕವಾಗಿದೆ?
-</string>
-  <string name="typical_phone_usage_prompt">ನಿಮ್ಮ ಫೋನ್ ಅನ್ನು ನೀವು ಸಾಮಾನ್ಯವಾಗಿ ಯಾವುದಕ್ಕಾಗಿ ಬಳಸುತ್ತೀರಿ? (ಅನ್ವಯವಾಗುವ ಎಲ್ಲವನ್ನೂ ಪರಿಶೀಲಿಸಿ)
-</string>
-  <string name="first_time_with_karya_prompt">ನೀವು ಕಾರ್ಯಾ ಅವರೊಂದಿಗೆ ಕೆಲಸ ಮಾಡುವುದು ಇದು ಮೊದಲ ಬಾರಿಯೇ?
-</string>
-  <string name="no_of_past_projects_prompt">ಇಲ್ಲದಿದ್ದರೆ: ಕಾರ್ಯದೊಂದಿಗೆ ನೀವು ಎಷ್ಟು ಹಿಂದಿನ ಯೋಜನೆಗಳನ್ನು ಮಾಡಿದ್ದೀರಿ?
-</string>
-  <string name="excitement_for_work_prompt">ಕೆಲಸವನ್ನು ಪ್ರಾರಂಭಿಸಲು ನೀವು ಉತ್ಸುಕರಾಗಿದ್ದೀರಾ?
-</string>
-  <string name="thanking_prompt">ಈ ನೋಂದಣಿ ಫಾರ್ಮ್ ಅನ್ನು ಪೂರ್ಣಗೊಳಿಸಿದ್ದಕ್ಕಾಗಿ ಧನ್ಯವಾದಗಳು! ನಿಮ್ಮ ಸಮಯಕ್ಕಾಗಿ ನಾವು ನಿಮಗೆ  ಐದು ರೂಪೈಯನ್ನು  ನೀಡಲು ಬಯಸುತ್ತೇವೆ. ನಿಮ್ಮ ಹಣವನ್ನು ಕ್ಲೈಮ್ ಮಾಡಲು ದಯವಿಟ್ಟು ಮುಂದಿನ ಪುಟದಲ್ಲಿ ನಿಮ್ಮ ಬ್ಯಾಂಕಿಂಗ್ ವಿವರಗಳನ್ನು ನಮೂದಿಸಿ. ನಿಮ್ಮ ಬ್ಯಾಂಕಿಂಗ್ ಮಾಹಿತಿಯನ್ನು DAIA Tech Pvt ltd ಗೆ ಹಂಚಿಕೊಳ್ಳಲು ನೀವು ಸಮ್ಮತಿಸುತ್ತೀರಾ.?
-</string>
-  <string name="bank_account_name_prompt">ಬ್ಯಾಂಕ್ ಖಾತೆ ಹೆಸರು
-</string>
-  <string name="bank_account_number_prompt">ಬ್ಯಾಂಕ್ ಖಾತೆ ಸಂಖ್ಯೆ
-</string>
-  <string name="bank_name_prompt">ಬ್ಯಾಂಕ್ ಹೆಸರು
-</string>
-  <string name="bank_branch_name_prompt">ಬ್ಯಾಂಕ್ ಶಾಖೆಯ ಹೆಸರು
-</string>
-  <string name="bank_branch_address_prompt">ಬ್ಯಾಂಕ್ ಶಾಖೆಯ ವಿಳಾಸ
-</string>
-  <string name="bank_ifsc_prompt">ಬ್ಯಾಂಕ್ ಐ ಎಫ್ ಎಸ್ ಸಿ  ಕೋಡ್
-</string>
+  <string name="village_prompt">ಗ್ರಾಮದ ಹೆಸರು</string>
+  <string name="language_prompt">ನಿಮಗೆ ಯಾವ ಭಾಷೆಗಳು ಗೊತ್ತು ಮತ್ತು ನಿಮ್ಮ ಪ್ರಾವೀಣ್ಯತೆ ಏನು?</string>
+  <string name="yob_prompt">ವಯಸ್ಸು (ಹುಟ್ಟಿದ ವರ್ಷ)</string>
+  <string name="marital_status_prompt">ವೈವಾಹಿಕ ಸ್ಥಿತಿ</string>
+  <string name="family_strength_prompt">ನಿಮ್ಮ ಮನೆಯಲ್ಲಿ ಎಷ್ಟು ಜನರು ವಾಸಿಸುತ್ತಿದ್ದಾರೆ</string>
+  <string name="education_prompt">ಅತ್ಯುನ್ನತ ಶಿಕ್ಷಣ ಮಟ್ಟ</string>
+  <string name="annual_household_income_prompt">ವಾರ್ಷಿಕ ಗೃಹ ಆದಾಯ</string>
+  <string name="annual_personal_income_current_year_prompt">ವಾರ್ಷಿಕ ವೈಯಕ್ತಿಕ ಆದಾಯ (ಪ್ರಸ್ತುತ ವರ್ಷ)</string>
+  <string name="annual_personal_income_past_year_prompt">ವಾರ್ಷಿಕ ವೈಯಕ್ತಿಕ ಆದಾಯ (ಕಳೆದ ವರ್ಷ)</string>
+  <string name="employment_status_prompt">ನಿಮ್ಮ ಉದ್ಯೋಗದ ಸ್ಥಿತಿ ಏನು</string>
+  <string name="income_source_prompt">ನಿಮ್ಮ ಮುಖ್ಯ ಆದಾಯದ ಮೂಲ ಯಾವುದು?</string>
+  <string name="working_months_prompt">ಸರಾಸರಿಯಾಗಿ, ನೀವು ವರ್ಷದಲ್ಲಿ ಎಷ್ಟು ತಿಂಗಳು ಕೆಲಸ ಮಾಡುತ್ತೀರಿ?</string>
+  <string name="is_personal_phone_prompt">ಇದು ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಫೋನ್ ಆಗಿದೆಯೇ?</string>
+  <string name="phone_shared_with_prompt">ಇಲ್ಲದಿದ್ದರೆ: ನಿಮ್ಮ ಫೋನ್ ಅನ್ನು ನೀವು ಯಾರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳುತ್ತೀರಿ?</string>
+  <string name="comfort_in_using_phone_prompt">ನಿಮ್ಮ ಫೋನ್ ಅನ್ನು ಬಳಸುವಾಗ ನಿಮಗೆ ಎಷ್ಟು ಆರಾಮದಾಯಕವಾಗಿದೆ?</string>
+  <string name="typical_phone_usage_prompt">ನಿಮ್ಮ ಫೋನ್ ಅನ್ನು ನೀವು ಸಾಮಾನ್ಯವಾಗಿ ಯಾವುದಕ್ಕಾಗಿ ಬಳಸುತ್ತೀರಿ? (ಅನ್ವಯವಾಗುವ ಎಲ್ಲವನ್ನೂ ಪರಿಶೀಲಿಸಿ)</string>
+  <string name="first_time_with_karya_prompt">ನೀವು ಕಾರ್ಯಾ ಅವರೊಂದಿಗೆ ಕೆಲಸ ಮಾಡುವುದು ಇದು ಮೊದಲ ಬಾರಿಯೇ?</string>
+  <string name="no_of_past_projects_prompt">ಇಲ್ಲದಿದ್ದರೆ: ಕಾರ್ಯದೊಂದಿಗೆ ನೀವು ಎಷ್ಟು ಹಿಂದಿನ ಯೋಜನೆಗಳನ್ನು ಮಾಡಿದ್ದೀರಿ?</string>
+  <string name="excitement_for_work_prompt">ಕೆಲಸವನ್ನು ಪ್ರಾರಂಭಿಸಲು ನೀವು ಉತ್ಸುಕರಾಗಿದ್ದೀರಾ?</string>
+  <string name="thanking_prompt">ಈ ನೋಂದಣಿ ಫಾರ್ಮ್ ಅನ್ನು ಪೂರ್ಣಗೊಳಿಸಿದ್ದಕ್ಕಾಗಿ ಧನ್ಯವಾದಗಳು! ನಿಮ್ಮ ಸಮಯಕ್ಕಾಗಿ ನಾವು ನಿಮಗೆ  ಐದು ರೂಪೈಯನ್ನು  ನೀಡಲು ಬಯಸುತ್ತೇವೆ. ನಿಮ್ಮ ಹಣವನ್ನು ಕ್ಲೈಮ್ ಮಾಡಲು ದಯವಿಟ್ಟು ಮುಂದಿನ ಪುಟದಲ್ಲಿ ನಿಮ್ಮ ಬ್ಯಾಂಕಿಂಗ್ ವಿವರಗಳನ್ನು ನಮೂದಿಸಿ. ನಿಮ್ಮ ಬ್ಯಾಂಕಿಂಗ್ ಮಾಹಿತಿಯನ್ನು DAIA Tech Pvt ltd ಗೆ ಹಂಚಿಕೊಳ್ಳಲು ನೀವು ಸಮ್ಮತಿಸುತ್ತೀರಾ.?</string>
+  <string name="bank_account_name_prompt">ಬ್ಯಾಂಕ್ ಖಾತೆ ಹೆಸರು</string>
+  <string name="bank_account_number_prompt">ಬ್ಯಾಂಕ್ ಖಾತೆ ಸಂಖ್ಯೆ</string>
+  <string name="bank_name_prompt">ಬ್ಯಾಂಕ್ ಹೆಸರು</string>
+  <string name="bank_branch_name_prompt">ಬ್ಯಾಂಕ್ ಶಾಖೆಯ ಹೆಸರು</string>
+  <string name="bank_branch_address_prompt">ಬ್ಯಾಂಕ್ ಶಾಖೆಯ ವಿಳಾಸ</string>
+  <string name="bank_ifsc_prompt">ಬ್ಯಾಂಕ್ ಐ ಎಫ್ ಎಸ್ ಸಿ  ಕೋಡ್</string>
   <string name="processing">ಸಂಸ್ಕರಣೆ</string>
-  <string name="completed_on">%s ನಲ್ಲಿ ಪೂರ್ಣಗೊಂಡಿದೆ
-</string>
-  <string name="no_transactions_to_show">ತೋರಿಸಲು ಯಾವುದೇ ವಹಿವಾಟುಗಳಿಲ್ಲ
-</string>
+  <string name="completed_on">%s ನಲ್ಲಿ ಪೂರ್ಣಗೊಂಡಿದೆ</string>
+  <string name="no_transactions_to_show">ತೋರಿಸಲು ಯಾವುದೇ ವಹಿವಾಟುಗಳಿಲ್ಲ</string>
 </resources>

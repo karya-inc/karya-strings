@@ -53,7 +53,7 @@
   <string name="dismiss">नकार देना</string>
   <string name="help">मदद</string>
   <string name="select_your_language">अपनी भाषा का चयन करें</string>
-  <string name="welcome">स्वागत</string>
+  <string name="welcome">स्वागत %s</string>
   <string name="add_new_tasks">नए कार्य जोड़ें</string>
   <string name="earning">कमाई</string>
   <string name="rating">रेटिंग</string>
@@ -113,7 +113,7 @@
   <string name="record_video">वीडियो रिकॉर्ड करो</string>
   <string name="record_again">दोबारा रिकॉर्ड करें</string>
   <string name="output_not_found">%s आउटपुट नहीं मिला</string>
-  <string name="payments_welcome_message">बधाई! आपने रु. %s कमाए हैं. %s।</string>
+  <string name="payments_welcome_message">बधाई! आपने रु. %s कमाए हैं।</string>
   <string name="payment_method">कृपया भुगतान पाने का एक तरीका चुनें</string>
   <string name="name">कृपया अपना नाम वही दर्ज करें जो आपके बैंक रिकॉर्ड में दिखाई देता है</string>
   <string name="upi_request">कृपया अपना यूपीआई: दर्ज करें</string>
@@ -168,6 +168,13 @@
   <string name="bank_branch_address_prompt">बैंक शाखा का पता</string>
   <string name="bank_ifsc_prompt">बैंक IFSC कोड</string>
   <string name="processing">प्रसंस्करण</string>
-  <string name="completed_on">प्रतिशत पर पूरा</string>
+  <string name="completed_on">दिनांक: %s</string>
   <string name="no_transactions_to_show">दिखाने के लिए कोई लेनदेन नहीं</string>
+  <string name="empty_task_message">प्रोजेक्ट कोड जोड़ने के लिए + टैप करें</string>
+  <string name="male">पुरुष</string>
+  <string name="female">महिला</string>
+  <string name="transgender">ट्रांसजेंडर</string>
+  <string name="non_binary">गैर द्विआधारी</string>
+  <string name="prefer_not_to_say">"बताना नहीं चाहते "</string>
+  <string name="project">परियोजना</string>
 </resources>
