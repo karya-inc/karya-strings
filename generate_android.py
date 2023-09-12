@@ -20,7 +20,7 @@ output_folders = {
     'pa': 'values-pa',
     'ta': 'values-ta',
     'te': 'values-te',
-    'sp': 'values-sp',
+    'es': 'values-es',
 }
 
 shutil.rmtree("./android_res", ignore_errors=True)
