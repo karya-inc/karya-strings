@@ -20,12 +20,14 @@ output_folders = {
     'pa': 'values-pa',
     'ta': 'values-ta',
     'te': 'values-te',
+    'sp': 'values-sp',
 }
 
 shutil.rmtree("./android_res", ignore_errors=True)
 
 def escape_quote( str_xml: str ):
     str_xml = str_xml.replace("'", "\\'")
+    str_xml = str_xml.replace("\n", "")
     return str_xml
 
 # Read the CSV file

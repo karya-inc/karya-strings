@@ -87,7 +87,7 @@
   <string name="stop">ఆపండి</string>
   <string name="record">రికార్డ్ చేయండి</string>
   <string name="cancel">రద్దు చేయి</string>
-  <string name="sync">సింక్ </string>
+  <string name="sync">సింక్</string>
   <string name="acra_toast_text">ఎర్రర్ నివేదిక పంపబడింది</string>
   <string name="err_blank_input">ఖాళీ ఇన్‌పుట్‌లు అనుమతించబడవు!</string>
   <string name="err_numeric_input">సంఖ్యా ఇన్‌పుట్‌లు మాత్రమే అనుమతించబడతాయి</string>

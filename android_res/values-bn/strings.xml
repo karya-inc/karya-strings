@@ -98,7 +98,7 @@
   <string name="wrong_answer">উপরের উত্তরটি ভুল ছিল। সঠিক উত্তরটি হল %s</string>
   <string name="complete_registations">রেজিস্ট্রেশন সম্পূর্ণ করুন</string>
   <string name="force_sync">জোরপূর্বক সিঙ্ক  করুন</string>
-  <string name="not_you">আপনি নন? </string>
+  <string name="not_you">আপনি নন?</string>
   <string name="take_photo">ফটো তুলুন</string>
   <string name="error_taking_photo">ফটো তোলার সময় ত্রুটি হয়েছে! দয়া করে পুনরায় চেষ্টা করুন.</string>
   <string name="retake_photo">ফটো পুনরায় তুলুন</string>
@@ -113,14 +113,14 @@
   <string name="record_video">ভিডিও রেকর্ড করুন</string>
   <string name="record_again">পুনরায় রেকর্ড করুন</string>
   <string name="output_not_found">%s আউটপুট পাওয়া যায়নি</string>
-  <string name="payments_welcome_message">অভিনন্দন! আপনি %s টাকা উপার্জন করেছেন </string>
+  <string name="payments_welcome_message">অভিনন্দন! আপনি %s টাকা উপার্জন করেছেন</string>
   <string name="payment_method">অনুগ্রহ করে পারিশ্রমিক পেতে একটি পদ্ধতি বেছে নিন</string>
   <string name="name">অনুগ্রহ করে আপনার ব্যাংক  রেকর্ডে যে নামটি প্রদর্শিত আছে আপনার সেই নামটি লিখুন</string>
   <string name="upi_request">অনুগ্রহ করে আপনার ইউপিআই লিখুন</string>
   <string name="bank_account_no_request">অনুগ্রহ করে আপনার ব্যাঙ্ক অ্যাকাউন্ট নম্বরটি লিখুন</string>
   <string name="bank_ifsc_request">অনুগ্রহ করে আপনার পাসবুকে প্রদর্শিত আইএফএসসি কোডটি লিখুন</string>
   <string name="account_info_processing">যতক্ষণ আমরা আপনার ব্যাংক একাউন্টের তথ্য প্রক্রিয়াকরণ করছি ততক্ষণ অনুগ্রহ করে অপেক্ষা করুন। পরে ফিরে এসে চেক করুন।</string>
-  <string name="payment_confirmation_message">আমরা আপনার ব্যাঙ্ক অ্যাকাউন্টে ২ টাকা পাঠিয়েছি। আপনি কি সেই টাকাটি পেয়েছেন? </string>
+  <string name="payment_confirmation_message">আমরা আপনার ব্যাঙ্ক অ্যাকাউন্টে ২ টাকা পাঠিয়েছি। আপনি কি সেই টাকাটি পেয়েছেন?</string>
   <string name="payment_registration_failed">ব্যাঙ্ক অ্যাকাউন্ট রেজিস্ট্রেশন ব্যর্থ হয়েছে %s</string>
   <string name="payment_registration_rejected">আপনি ২ টাকা পেয়েছেন কিনা তা আমরা নিশ্চিত করতে পারছি না।</string>
   <string name="cannot_connect_to_server">আমরা সার্ভারের সাথে সংযোগ করতে পারছি না। অনুগ্রহ করে সাপোর্টের সাথে  যোগাযোগ করুন.</string>
@@ -150,7 +150,7 @@
   <string name="annual_household_income_prompt">বার্ষিক পারিবারিক আয়</string>
   <string name="annual_personal_income_current_year_prompt">বার্ষিক ব্যক্তিগত আয় (চলতি বছরের)</string>
   <string name="annual_personal_income_past_year_prompt">বার্ষিক ব্যক্তিগত আয় (গত বছরের)</string>
-  <string name="employment_status_prompt">আপনার কর্মজীবনের পরিস্থিতি কী </string>
+  <string name="employment_status_prompt">আপনার কর্মজীবনের পরিস্থিতি কী</string>
   <string name="income_source_prompt">আপনার উপার্জনের প্রধান উৎস কী?</string>
   <string name="working_months_prompt">গড়পড়তায় আপনি এক বছরে কত মাস কাজ করেন?</string>
   <string name="is_personal_phone_prompt">এটা কি আপনার ব্যক্তিগত ফোন?</string>
