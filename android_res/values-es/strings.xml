@@ -54,7 +54,7 @@
   <string name="help">Ayuda</string>
   <string name="select_your_language">Seleccionar su idioma</string>
   <string name="welcome">Bienvenido, %s</string>
-  <string name="add_new_tasks">Agregar nuevas tareas</string>
+  <string name="add_new_project">Agregar nuevas tareas</string>
   <string name="earning">Ganancia</string>
   <string name="rating">clasificación</string>
   <string name="account">Cuenta</string>
@@ -70,7 +70,7 @@
   <string name="done">Hecho</string>
   <string name="create_new_account">Crear una nueva cuenta</string>
   <string name="found_logged_in_accounts">Cuentas encontradas</string>
-  <string name="sync_with_server">Sincronizar con el servidor</string>
+  <string name="refresh">Sincronizar con el servidor</string>
   <string name="okay">Bien</string>
   <string name="completed">Completado</string>
   <string name="submitted">Entregado</string>
@@ -92,7 +92,7 @@
   <string name="err_blank_input">¡No se permiten entradas en blanco!</string>
   <string name="err_numeric_input">Sólo se permiten entradas numéricas</string>
   <string name="err_decimal_input">Sólo se permiten entradas numéricas decimales</string>
-  <string name="msg_sync">Ha completado tareas que se pueden enviar al servidor. ¿Quiere enviar las tareas ahora?</string>
+  <string name="sync_confirmation_message">Ha completado tareas que se pueden enviar al servidor. ¿Quiere enviar las tareas ahora?</string>
   <string name="edit_successful">¡Edición exitosa!</string>
   <string name="correct_answer">¡La respuesta anterior era correcta!</string>
   <string name="wrong_answer">La respuesta anterior fue incorrecta, la respuesta correcta es %s</string>
