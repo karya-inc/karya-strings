@@ -220,4 +220,27 @@
   <string name="in_control_of_physical_health">எனது உடல் ஆரோக்கியம் கட்டுப்பாட்டில் இருப்பதாக உணர்கிறேன்</string>
   <string name="comfortable_in_neighborhood">எனது சுற்றுப்புறத்தில் / கிராமத்தில் நான் வசதியாக உணர்கிறேன்</string>
   <string name="adequate_savings_in_financial_emergency">நிதி நெருக்கடி ஏற்பட்டால், என்னிடம் போதுமான சேமிப்பு உள்ளது</string>
+  <string name="sync_confirmation_title">பணிகளைச் சமர்ப்பிக்க விரும்புகிறீர்களா?</string>
+  <string name="yes">ஆம்</string>
+  <string name="no">இல்லை</string>
+  <string name="type_here">இங்கே டைப் செய்யவும்</string>
+  <string name="select_from_other">மற்றவற்றிலிருந்து தேர்ந்தெடுக்கவும்</string>
+  <string name="get_profile_task_message">சுயவிவரப் பணியைப் பெற புதுப்பிப்பு பட்டனைத் தட்டவும்.</string>
+  <string name="click_to_download_tasks">பணிகளை பதிவிறக்கம் செய்ய கிளிக் செய்யவும்</string>
+  <string name="new_project_added">புதிய திட்டம் சேர்க்கப்பட்டது</string>
+  <string name="click_here_to_get_tasks">மேலும் பணிகளைப் பெற இங்கே கிளிக் செய்யவும்</string>
+  <string name="new_tasks_assigned">புதிய பணிகள் ஒதுக்கப்பட்டுள்ளன</string>
+  <string name="request_permissions">அனுமதிகளை கேளுங்கள்</string>
+  <string name="open_settings">செட்டிங்ஸை ஓப்பன் செய்யவும்</string>
+  <string name="and">மற்றும்</string>
+  <string name="please_contact_us_for_payments">பணம் பெற எங்களை தொடர்பு கொள்ளவும்</string>
+  <string name="do_more_task_for_payments_prompt">கட்டணங்களைத் தொடங்க கூடுதல் பணிகளைச் செய்யவும்</string>
+  <string name="invalid_input">உள்ளிட்ட மதிப்பு தவறானது</string>
+  <string name="available">கிடைக்கும்</string>
+  <string name="sync_title">புத்துணர்ச்சி அளிக்கிறது...</string>
+  <string name="error_not_in_range_float">உள்ளிட்ட மதிப்பு %.2f - %.2f இடையே இல்லை</string>
+  <string name="error_not_in_range_integer">உள்ளிட்ட மதிப்பு %d - %d இடையே இல்லை</string>
+  <string name="verify_phone_number">உங்கள் எண்ணைச் சரிபார்க்கவும்</string>
+  <string name="getting_checked">சரிபார்க்கப்படுகிறது</string>
+  <string name="checked">சரிபார்க்கப்பட்டது</string>
 </resources>

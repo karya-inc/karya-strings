@@ -220,4 +220,27 @@
   <string name="in_control_of_physical_health">હું મારા શારીરિક સ્વાસ્થ્ય પર નિયંત્રણ અનુભવું છું</string>
   <string name="comfortable_in_neighborhood">હું મારા પડોશ/ગામમાં આરામદાયક અનુભવું છું</string>
   <string name="adequate_savings_in_financial_emergency">નાણાકીય કટોકટીની સ્થિતિમાં, મારી પાસે પૂરતી બચત છે</string>
+  <string name="sync_confirmation_title">શું તમે કાર્યો સબમિટ કરવા માંગો છો?</string>
+  <string name="yes">હા</string>
+  <string name="no">ના</string>
+  <string name="type_here">અહી લખો</string>
+  <string name="select_from_other">અન્યમાંથી પસંદ કરો</string>
+  <string name="get_profile_task_message">પ્રોફાઇલ કાર્ય મેળવવા માટે રિફ્રેશ બટનને દબાવો</string>
+  <string name="click_to_download_tasks">કાર્યો ડાઉનલોડ કરવા માટે ક્લિક કરો</string>
+  <string name="new_project_added">નવો પ્રોજેક્ટ ઉમેરાયેલ છે</string>
+  <string name="click_here_to_get_tasks">વધુ કાર્યો મેળવવા માટે અહીં ક્લિક કરો</string>
+  <string name="new_tasks_assigned">નવા કાર્યો સોપાયેલ છે</string>
+  <string name="request_permissions">પરવાનગીઓની વિનંતી</string>
+  <string name="open_settings">સેટિંગ્સ ખોલો</string>
+  <string name="and">અને</string>
+  <string name="please_contact_us_for_payments">ચુકવણી મેળવવા માટે કૃપા કરીને અમારો સંપર્ક કરો</string>
+  <string name="do_more_task_for_payments_prompt">કૃપા કરીને ચૂકવણી શરૂ કરવા માટે વધુ કાર્યો કરો</string>
+  <string name="invalid_input">દાખલ કરેલ મૂલ્ય અમાન્ય છે</string>
+  <string name="available">ઉપલબ્ધ</string>
+  <string name="sync_title">રીફ્રેશ થઇ રહ્યું છે</string>
+  <string name="error_not_in_range_float">દાખલ થયેલ કિંમત એ %.2f - %.2f ની વચ્ચે નથી</string>
+  <string name="error_not_in_range_integer">દાખલ થયેલ કિંમત એ %d - %d વચ્ચે નથી</string>
+  <string name="verify_phone_number">તમારા નંબરની ખાત્રી કરો</string>
+  <string name="getting_checked">તપાસ થઇ રહી છે</string>
+  <string name="checked">તપાસ પૂર્ણ થયેલ છે</string>
 </resources>

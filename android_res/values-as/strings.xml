@@ -220,4 +220,27 @@
   <string name="in_control_of_physical_health">মই মোৰ শাৰীৰিক স্বাস্থ্যৰ নিয়ন্ত্ৰণ অনুভৱ কৰোঁ</string>
   <string name="comfortable_in_neighborhood">মই মোৰ চুবুৰীয়া/গাঁৱত আৰামদায়ক অনুভৱ কৰোঁ</string>
   <string name="adequate_savings_in_financial_emergency">আৰ্থিক জৰুৰীকালীন অৱস্থাত, মোৰ হাতত পৰ্যাপ্ত পৰিমাণৰ সঞ্চয় আছে</string>
+  <string name="sync_confirmation_title">আপুনি কাম জমা দিব বিচাৰেনে?</string>
+  <string name="yes">হয়</string>
+  <string name="no">নহয়</string>
+  <string name="type_here">ইয়াত টাইপ কৰক</string>
+  <string name="select_from_other">আন এটাৰ পৰা নিৰ্বাচন কৰক</string>
+  <string name="get_profile_task_message">প্ৰ\'ফাইল কাৰ্য্য প্ৰাপ্ত কৰিবলৈ ৰিফ্ৰেছ বুটামটো টেপ কৰক</string>
+  <string name="click_to_download_tasks">কাৰ্য্যসমূহ ডাউনলোড কৰিবলৈ ক্লিক কৰক</string>
+  <string name="new_project_added">নতুন প্ৰজেক্ট যোগ কৰা হৈছে</string>
+  <string name="click_here_to_get_tasks">অধিক কাৰ্য্য পাবলৈ ইয়াত ক্লিক কৰক</string>
+  <string name="new_tasks_assigned">নতুন কাৰ্য্য আৱণ্টন কৰা হৈছে</string>
+  <string name="request_permissions">অনুমতিৰ অনুৰোধ কৰক</string>
+  <string name="open_settings">ছেটিংছ খোলক</string>
+  <string name="and">আৰু</string>
+  <string name="please_contact_us_for_payments">পেমেন্ট লাভ কৰিবলৈ আমাৰ সৈতে যোগাযোগ কৰক</string>
+  <string name="do_more_task_for_payments_prompt">পেমেণ্ট আৰম্ভ কৰিবলৈ অনুগ্ৰহ কৰি অধিক কাম কৰক</string>
+  <string name="invalid_input">প্ৰৱেশ কৰা মান অবৈধ</string>
+  <string name="available">উপলব্ধ</string>
+  <string name="sync_title">সতেজ হৈ আছে..</string>
+  <string name="error_not_in_range_float">প্ৰৱেশ কৰা মান %.2f - %.2f ৰ মাজত নাই।</string>
+  <string name="error_not_in_range_integer">প্ৰৱেশ কৰা মান %d - %d ৰ মাজত নাই</string>
+  <string name="verify_phone_number">আপোনাৰ নম্বৰটো পৰীক্ষা কৰক</string>
+  <string name="getting_checked">চেক কৰা হৈছে</string>
+  <string name="checked">পৰীক্ষা কৰা হৈছে</string>
 </resources>

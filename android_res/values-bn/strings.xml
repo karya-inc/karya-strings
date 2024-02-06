@@ -220,4 +220,27 @@
   <string name="in_control_of_physical_health">আমি আমার শারীরিক স্বাস্থ্যের নিয়ন্ত্রণ অনুভব করি</string>
   <string name="comfortable_in_neighborhood">আমি আমার পাড়া/গ্রামে স্বাচ্ছন্দ্যবোধ করি</string>
   <string name="adequate_savings_in_financial_emergency">আর্থিক জরুরী পরিস্থিতিতে, আমার পর্যাপ্ত সঞ্চয় আছে</string>
+  <string name="sync_confirmation_title">আপনি কি কাজগুলি জমা দিতে চান?</string>
+  <string name="yes">হ্যাঁ</string>
+  <string name="no">না</string>
+  <string name="type_here">এখানে টাইপ করুন</string>
+  <string name="select_from_other">অন্যটি থেকে নির্বাচন করুন</string>
+  <string name="get_profile_task_message">প্রোফাইল টাস্ক পেতে রিফ্রেশ বোতামটি চাপুন।</string>
+  <string name="click_to_download_tasks">কাজ ডাউনলোড করতে ক্লিক করুন</string>
+  <string name="new_project_added">নতুন প্রকল্প যোগ করা হয়েছে</string>
+  <string name="click_here_to_get_tasks">আরও কাজ পেতে এখানে ক্লিক করুন</string>
+  <string name="new_tasks_assigned">নতুন কাজ অর্পণ করা হয়েছে</string>
+  <string name="request_permissions">অনুমতির জন্য অনুরোধ</string>
+  <string name="open_settings">সেটিংস খুলুন</string>
+  <string name="and">এবং</string>
+  <string name="please_contact_us_for_payments">পেমেন্ট পেতে আমাদের সাথে যোগাযোগ করুন</string>
+  <string name="do_more_task_for_payments_prompt">পেমেন্ট শুরু করতে অনুগ্রহ করে আরও কাজ করুন</string>
+  <string name="invalid_input">লিখিত মান বৈধ নয়</string>
+  <string name="available">উপলভ্য</string>
+  <string name="sync_title">রিফ্রেশ হচ্ছে...</string>
+  <string name="error_not_in_range_float">লিখিত মান %.2f - %.2f এর মধ্যে নয়</string>
+  <string name="error_not_in_range_integer">লিখিত মান %d - %d-এর মধ্যে নয়</string>
+  <string name="verify_phone_number">আপনার নম্বর যাচাই করুন</string>
+  <string name="getting_checked">চেক করা হচ্ছে</string>
+  <string name="checked">চেক করা হয়েছে</string>
 </resources>

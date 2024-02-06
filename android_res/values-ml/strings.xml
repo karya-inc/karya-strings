@@ -220,4 +220,27 @@
   <string name="in_control_of_physical_health">എന്റെ ആരോഗ്യം എന്റെ നിയന്ത്രണത്തിലാണെന്ന് എനിക്ക് തോന്നുന്നു </string>
   <string name="comfortable_in_neighborhood">എന്റെ ഗ്രാമത്തിലും/അയൽക്കാരിലും ഞാൻ സംതൃപ്തനാണ് </string>
   <string name="adequate_savings_in_financial_emergency">സാമ്പത്തികമായി ഒരു അടിയന്തിരാവശ്യം വന്നാൽ വിനിയോഗിക്കാൻ ആവശ്യമായ നീക്കിയിരുപ്പ് എനിക്കുണ്ട് </string>
+  <string name="sync_confirmation_title">നിങ്ങൾക്ക് ടാസ്കുകൾ സമർപ്പിക്കണോ?</string>
+  <string name="yes">അതെ</string>
+  <string name="no">വേണ്ട</string>
+  <string name="type_here">ഇവിടെ ടൈപ്പ് ചെയ്യുക</string>
+  <string name="select_from_other">മറ്റുള്ളതിൽ നിന്ന് തിരഞ്ഞെടുക്കുക</string>
+  <string name="get_profile_task_message">പ്രൊഫൈൽ ടാസ്‌ക് ലഭിക്കാനായി റിഫ്രഷ് ബട്ടണിൽ തൊടുക</string>
+  <string name="click_to_download_tasks">ടാസ്കുകൾ ഡൗൺലോഡ് ചെയ്യാനായി ക്ലിക്ക് ചെയ്യുക</string>
+  <string name="new_project_added">പുതിയ പ്രൊജക്റ്റ് ചേർത്തിട്ടുണ്ട് </string>
+  <string name="click_here_to_get_tasks">കൂടുതൽ ടാസ്കുകൾ ലഭിക്കാനായി ഇവിടെ ക്ലിക്ക് ചെയ്യുക</string>
+  <string name="new_tasks_assigned">പുതിയ ടാസ്കുകൾ സജ്ജീകരിച്ചിരുന്നു</string>
+  <string name="request_permissions">അനുമതികൾക്കായിട്ടുള്ള അഭ്യർത്ഥന</string>
+  <string name="open_settings">ക്രമീകരണങ്ങൾ തുറക്കുക</string>
+  <string name="and">കൂടെ</string>
+  <string name="please_contact_us_for_payments">പേയ്‌മെന്റ് ലഭിക്കുന്നതിനായി ദയവായി ഞങ്ങളെ ബന്ധപ്പെടുക</string>
+  <string name="do_more_task_for_payments_prompt">പേയ്‌മെന്റുകൾ ആരംഭിക്കുന്നതിനായി ദയവായി കൂടുതൽ ടാസ്കുകൾ ചെയ്യുക</string>
+  <string name="invalid_input">നൽകിയിരിക്കുന്ന മൂല്യം അസാധുവാണ്</string>
+  <string name="available">ലഭ്യമാണ്</string>
+  <string name="sync_title">റിഫ്രഷിങ്…</string>
+  <string name="error_not_in_range_float">നൽകിയിരിക്കുന്ന മൂല്യം %.2f - %.2f ഇടയിലുള്ളതല്ല</string>
+  <string name="error_not_in_range_integer">നൽകിയിരിക്കുന്ന മൂല്യം %d - %d ഇടയിലുള്ളതല്ല</string>
+  <string name="verify_phone_number">നിങ്ങളുടെ നമ്പർ പരിശോധിച്ചു ഉറപ്പാക്കുക</string>
+  <string name="getting_checked">പരിശോധിക്കുന്നു</string>
+  <string name="checked">പരിശോധിച്ചിരിക്കുന്നു</string>
 </resources>

@@ -222,4 +222,25 @@
   <string name="in_control_of_physical_health">मला माझ्या शारीरिक आरोग्यावर नियंत्रण आहे असे वाटते</string>
   <string name="comfortable_in_neighborhood">मैं अपने पड़ोस/गांव में सहज महसूस करता हूं</string>
   <string name="adequate_savings_in_financial_emergency">आर्थिक आणीबाणीच्या परिस्थितीत माझ्याकडे पुरेशी बचत आहे</string>
+  <string name="sync_confirmation_title">तुम्हाला कार्ये सबमिट करायचे आहेत का?</string>
+  <string name="yes">हो </string>
+  <string name="no">नाही </string>
+  <string name="type_here">येथे लिहा</string>
+  <string name="select_from_other">इतरांमधून निवडा</string>
+  <string name="get_profile_task_message">प्रोफाइल टास्क मिळवण्यासाठी रिफ्रेश बटणावर टॅप करा.</string>
+  <string name="click_to_download_tasks">कार्ये डाउनलोड करण्यासाठी क्लिक करा</string>
+  <string name="new_project_added">नवीन प्रोजेक्ट जोडला.</string>
+  <string name="click_here_to_get_tasks">अधिक कार्ये मिळविण्यासाठी येथे क्लिक करा</string>
+  <string name="new_tasks_assigned">नवीन कामे सोपवली.</string>
+  <string name="request_permissions">परवानग्यांची विनंती करा.</string>
+  <string name="open_settings">सेटिंग्ज उघडा.</string>
+  <string name="and">आणि </string>
+  <string name="invalid_input">प्रविष्ट केलेले मूल्य अवैध आहे.</string>
+  <string name="available">उपलब्ध</string>
+  <string name="sync_title">रिफ्रेश करत आहे...</string>
+  <string name="error_not_in_range_float">प्रविष्ट केलेले मूल्य %.2f - %.2f दरम्यान नाही</string>
+  <string name="error_not_in_range_integer">प्रविष्ट केलेले मूल्य %d - %d दरम्यान नाही</string>
+  <string name="verify_phone_number">तुमचा नंबर सत्यापित करा.</string>
+  <string name="getting_checked">तपासणी होत आहे.</string>
+  <string name="checked">तपासले.</string>
 </resources>
