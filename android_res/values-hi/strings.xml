@@ -26,7 +26,6 @@
   <string name="gender_prompt">आपका लिंग क्या है?</string>
   <string name="pincode_prompt">आप जहां रहते हैं उस जिले का पिन कोड क्या है?</string>
   <string name="native_language_prompt">वह कौन सी भाषा है जिसे बोलने में आप सबसे अधिक सहज महसूस करते हैं?</string>
-  <string name="sync_message">सर्वर के साथ सॉम्पर्क जारी है</string>
   <string name="project_code">प्रोजेक्ट कोड</string>
   <string name="enter_project_code">प्रोजेक्ट कोड दर्ज करें</string>
   <string name="assistant_project_code_msg">कृपया कार्या सहायक द्वारा आपको भेजा गया प्रोजेक्ट कोड दर्ज करें</string>
@@ -93,6 +92,7 @@
   <string name="err_numeric_input">केवल संख्यात्मक इनपुट की अनुमति है</string>
   <string name="err_decimal_input">केवल दशमलव संख्यात्मक इनपुट की अनुमति है</string>
   <string name="sync_confirmation_message">आपने वे कार्य पूरे कर लिए हैं जिन्हें सर्वर पर सबमिट किया जा सकता है। क्या आप अभी कार्य सबमिट करना चाहते हैं?</string>
+  <string name="sync_confirmation_title">क्या आप कार्य सबमिट करना चाहते हैं?</string>
   <string name="edit_successful">संपादन सफल!</string>
   <string name="correct_answer">ऊपर दिया गया उत्तर सही था!</string>
   <string name="wrong_answer">ऊपर दिया गया  उत्तर गलत था. सही उत्तर %s है</string>
@@ -184,8 +184,30 @@
   <string name="non_binary">गैर द्विआधारी</string>
   <string name="prefer_not_to_say">"बताना नहीं चाहते "</string>
   <string name="project">परियोजना</string>
+  <string name="yes">हाँ</string>
+  <string name="no">नहीं</string>
   <string name="good">अच्छा</string>
   <string name="bad">खराब</string>
+  <string name="type_here">यहाँ टाइप करें</string>
+  <string name="select_from_other">अन्य में से चुनें</string>
+  <string name="get_profile_task_message">प्रोफ़ाइल कार्य प्राप्त करने के लिए रिफ्रेश बटन दबाएं</string>
+  <string name="click_to_download_tasks">कार्यों को डाउनलोड करने के लिए क्लिक करें</string>
+  <string name="new_project_added">नई परियोजना जोड़ी गई</string>
+  <string name="click_here_to_get_tasks">अधिक कार्य प्राप्त करने के लिए यहां क्लिक करें</string>
+  <string name="new_tasks_assigned">सौंपे गए नए कार्य</string>
+  <string name="request_permissions">अनुमतियों का अनुरोध करें</string>
+  <string name="open_settings">सेटिंग्स खोलें</string>
+  <string name="and">और</string>
+  <string name="please_contact_us_for_payments">भुगतान प्राप्त करने के लिए कृपया हमसे संपर्क करें</string>
+  <string name="do_more_task_for_payments_prompt">कृपया भुगतान शुरू करने के लिए और कार्य करें</string>
+  <string name="invalid_input">दर्ज किया गया मान अमान्य है</string>
+  <string name="available">उपलब्ध</string>
+  <string name="refreshing">रिफ्रेश हो रहा है</string>
+  <string name="error_not_in_range_float">दर्ज किया गया मान %.2f - %.2f के बीच नहीं है</string>
+  <string name="error_not_in_range_integer">दर्ज किया गया मान %d - %d के बीच नहीं है</string>
+  <string name="verify_phone_number">अपना नंबर सत्यापित करें</string>
+  <string name="getting_checked">जाँच किया जा रहा है</string>
+  <string name="checked">जाँच</string>
   <string name="task_was_rejected">अस्वीकृति का कारण</string>
   <string name="rejected_assignments_prompt">%d कार्य अस्वीकृत कर दिए गए. प्रतिक्रिया देखने के लिए नीचे स्क्रॉल करें.</string>
   <string name="monitoring_dialog_title">कृपया इस प्रश्न का उत्तर दें</string>
@@ -220,29 +242,4 @@
   <string name="in_control_of_physical_health">मैं अपने शारीरिक स्वास्थ्य पर नियंत्रण महसूस करता हूँ</string>
   <string name="comfortable_in_neighborhood">मला माझ्या शेजारी/गावात आरामदायक वाटते</string>
   <string name="adequate_savings_in_financial_emergency">वित्तीय आपातकाल की स्थिति में, मेरे पास पर्याप्त बचत है</string>
-  <string name="sync_confirmation_title">क्या आप कार्य सबमिट करना चाहते हैं?</string>
-  <string name="yes">हाँ</string>
-  <string name="no">नहीं </string>
-  <string name="type_here">यहाँ टाइप करें</string>
-  <string name="select_from_other">अन्य में से चुनें</string>
-  <string name="get_profile_task_message">प्रोफ़ाइल कार्य प्राप्त करने के लिए रिफ्रेश बटन दबाएं </string>
-  <string name="click_to_download_tasks">कार्यों को डाउनलोड करने के लिए क्लिक करें</string>
-  <string name="new_project_added">नई परियोजना जोड़ी गई</string>
-  <string name="click_here_to_get_tasks">अधिक कार्य प्राप्त करने के लिए यहां क्लिक करें</string>
-  <string name="new_tasks_assigned">सौंपे गए नए कार्य</string>
-  <string name="request_permissions">अनुमतियों का अनुरोध करें</string>
-  <string name="open_settings">सेटिंग्स खोलें</string>
-  <string name="and">और </string>
-  <string name="please_contact_us_for_payments">भुगतान प्राप्त करने के लिए कृपया हमसे संपर्क करें</string>
-  <string name="do_more_task_for_payments_prompt">कृपया भुगतान शुरू करने के लिए और कार्य करें</string>
-  <string name="invalid_input">दर्ज किया गया मान अमान्य है
-  </string>
-  <string name="available">उपलब्ध</string>
-  <string name="sync_title">रिफ्रेश हो रहा है</string>
-  <string name="error_not_in_range_float">दर्ज किया गया मान %.2f - %.2f के बीच नहीं है</string>
-  <string name="error_not_in_range_integer">दर्ज किया गया मान %d - %d के बीच नहीं है</string>
-  <string name="verify_phone_number">अपना नंबर सत्यापित करें</string>
-  <string name="getting_checked">जाँच किया जा रहा है
-  </string>
-  <string name="checked">जाँच</string>
 </resources>

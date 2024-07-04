@@ -18,7 +18,6 @@
   <string name="accept">Aceptar</string>
   <string name="reject">Rechazar</string>
   <string name="profile">Perfil</string>
-  <string name="assistant_profile_msg">Para continuar usando la aplicación Karya, complete su perfil de usuario respondiendo estas preguntas.</string>
   <string name="name_prompt">¿Cuál es su nombre?</string>
   <string name="blank_name">El nombre no puede estar en blanco</string>
   <string name="age_prompt">¿Cuál es su año de nacimiento?</string>
@@ -26,7 +25,6 @@
   <string name="gender_prompt">¿Cuál es su género?</string>
   <string name="pincode_prompt">¿Cuál es el código PIN del distrito donde vive?</string>
   <string name="native_language_prompt">¿Cuál es el idioma con el que se siente más cómodo hablando?</string>
-  <string name="sync_message">Comunicándose con el servidor</string>
   <string name="project_code">Código de proyecto</string>
   <string name="enter_project_code">Ingrese el código del proyecto</string>
   <string name="assistant_project_code_msg">Por favor ingrese el código del proyecto que le envió el coordinador de Karya.</string>
@@ -93,6 +91,7 @@
   <string name="err_numeric_input">Sólo se permiten entradas numéricas</string>
   <string name="err_decimal_input">Sólo se permiten entradas numéricas decimales</string>
   <string name="sync_confirmation_message">Ha completado tareas que se pueden enviar al servidor. ¿Quiere enviar las tareas ahora?</string>
+  <string name="sync_confirmation_title">¿Quieres enviar tareas?</string>
   <string name="edit_successful">¡Edición exitosa!</string>
   <string name="correct_answer">¡La respuesta anterior era correcta!</string>
   <string name="wrong_answer">La respuesta anterior fue incorrecta, la respuesta correcta es %s</string>
@@ -190,7 +189,6 @@
   <string name="bad">Mal</string>
   <string name="type_here">Escriba aquí</string>
   <string name="select_from_other">Seleccionar de otro</string>
-  <string name="sync_confirmation_title">¿Quieres enviar tareas?</string>
   <string name="get_profile_task_message">Toque el botón Actualizar para obtener la tarea del perfil.</string>
   <string name="click_to_download_tasks">Haga clic para descargar tareas</string>
   <string name="new_project_added">Nuevo proyecto agregado</string>
@@ -203,7 +201,7 @@
   <string name="do_more_task_for_payments_prompt">Por favor, haga más tareas para iniciar los pagos.</string>
   <string name="invalid_input">El valor introducido no es válido</string>
   <string name="available">Disponible</string>
-  <string name="sync_title">Actualizando</string>
+  <string name="refreshing">Actualizando</string>
   <string name="error_not_in_range_float">El valor ingresado no está entre %.2f - %.2f</string>
   <string name="error_not_in_range_integer">El valor ingresado no está entre %d - %d</string>
   <string name="verify_phone_number">Verifique su número</string>
