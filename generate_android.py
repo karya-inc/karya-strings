@@ -10,8 +10,10 @@ csv_file = './source.csv'
 output_folders = {
     'en': 'values',
     'as': 'values-as',
+    'bho': 'values-bho',
     'bn': 'values-bn',
     'gu': 'values-gu',
+    'grt': 'values-grt',
     'hi': 'values-hi',
     'kn': 'values-kn',
     'ml': 'values-ml',
@@ -20,7 +22,7 @@ output_folders = {
     'pa': 'values-pa',
     'ta': 'values-ta',
     'te': 'values-te',
-    'es': 'values-es',
+    'es': 'values-es'
 }
 
 shutil.rmtree("./android_res", ignore_errors=True)
