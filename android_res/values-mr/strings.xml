@@ -6,7 +6,7 @@
   <string name="phone_number">फोन नंबर</string>
   <string name="msg_input_phone_number">Karya ला तुमचे खाते तयार करण्यासाठी तुमचा फोन नंबर आवश्यक आहे.तुम्ही यापुर्वीच युजर असल्यास, तुमचा नोंदणीकृत फोन नंबर वापरा.</string>
   <string name="otp_title">OTP पडताळणी</string>
-  <string name="msg_input_otp">%s ला पाठवलेला %s अंकी OTP एंटर करा</string>
+  <string name="msg_input_otp">%2$s ला पाठवलेला %1$s अंकी OTP एंटर करा</string>
   <string name="otp">OTP</string>
   <string name="msg_otp_not_received">OTP प्राप्त झाला नाही</string>
   <string name="unable_to_generate_otp">आम्ही या फोन नंबरसाठी OTP जनरेट करू शकलो नाही. कृपया नंबर तपासा किंवा नंतर पुन्हा प्रयत्न करा.</string>
@@ -344,4 +344,7 @@
   <string name="missing_zipcode_from_id">आयडीवरून पिनकोड वाचता येत नाही</string>
   <string name="user_age_not_between_18_and_120">तुमचे वय 18 ते 120 च्या दरम्यान असावे</string>
   <string name="missing_name_from_id">आयडीवरून पूर्ण नाव वाचता येत नाही</string>
+  <string name="do_you_want_to_scan_adhaar">जलद नोंदणीसाठी तुम्ही तुमचे आधार कार्ड स्कॅन करू इच्छिता?</string>
+  <string name="enter_full_name_with_example">कृपया तुमचे पूर्ण नाव प्रविष्ट करा. तुमचे पूर्ण नाव तुमचे नाव आणि आडनाव एकत्र लिहिलेले आहे, उदा: अनुराग शुक्ला</string>
+  <string name="i_identiy_my_gender_as">मी माझे लिंग .... म्हणून ओळखतो.</string>
 </resources>

@@ -6,7 +6,7 @@
   <string name="phone_number">ଫୋନ୍ ନମ୍ବର</string>
   <string name="msg_input_phone_number">Karya ଆକାଉଣ୍ଟ୍ ତିଆରି କରିବା ପାଇଁ ଆପଣଙ୍କ ଫୋନ୍ ନମ୍ବରର ଆବଶ୍ୟକତା ରହିଛି। ଯଦି ଆପଣ ପୁରୁଣା ବ୍ୟବହାରକାରୀ, ତେବେ ଆପଣଙ୍କ ପଞ୍ଜିକୃତ ଫୋନ୍ ନମ୍ବର ବ୍ୟବହାର କରନ୍ତୁ |</string>
   <string name="otp_title">OTP ଭେରିଫିକେସନ</string>
-  <string name="msg_input_otp">%s ଅଙ୍କର OTP %s କୁ ପଠାଯାଇଛି, ଦୟାକରି ସେହି ଅଙ୍କକୁ ଭରନ୍ତୁ </string>
+  <string name="msg_input_otp">%1$s ଅଙ୍କର OTP %2$s କୁ ପଠାଯାଇଛି, ଦୟାକରି ସେହି ଅଙ୍କକୁ ଭରନ୍ତୁ</string>
   <string name="otp">OTP</string>
   <string name="msg_otp_not_received">OTP ଆସିଲା ନାହିଁ</string>
   <string name="unable_to_generate_otp">ଏହି ଫୋନ୍ ନମ୍ବର ପାଇଁ ଆମେ OTP ସୃଷ୍ଟି କରିପାରିଲୁ ନାହିଁ। ଦୟାକରି ନମ୍ବରକୁ ଯାଞ୍ଚ କରନ୍ତୁ କିମ୍ବା ପରେ ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ।</string>
@@ -344,4 +344,7 @@
   <string name="missing_zipcode_from_id">ପରିଚୟ ପତ୍ରରୁ ପିନକୋଡ ସଂଖ୍ୟା ପଢ଼ି ହେଉ ନାହିଁ</string>
   <string name="user_age_not_between_18_and_120">ଆପଣଙ୍କର ବୟସ୍ 18 ରୁ 120 ବର୍ଷ ମଧ୍ୟରେ ହେବା ଉଚିତ୍</string>
   <string name="missing_name_from_id">ଆଇଡିରୁ ପୂର୍ଣ୍ଣ ନାମ ପଢ଼ି ହେଉ ନାହିଁ</string>
+  <string name="do_you_want_to_scan_adhaar">ଶୀଘ୍ର ପଞ୍ଜୀକରଣ ପାଇଁ ଆପଣ ଆପଣଙ୍କର ଆଧାର କାର୍ଡକୁ ସ୍କାନ୍ କରିବାକୁ ଚାହାନ୍ତି କି?</string>
+  <string name="enter_full_name_with_example">ଦୟାକରି ଆପଣଙ୍କର ପୂର୍ଣ୍ଣ ନାମ ଭରନ୍ତୁ। ଆପଣଙ୍କର ପୂର୍ଣ୍ଣ ନାମ ଲେଖିବା ପାଇଁ, ନିଜର ପ୍ରଥମ ନାମ ଓ ଶେଷ ନାମ ସାଙ୍ଗରେ ଲେଖନ୍ତୁ, ଯଥା: Anurag Shukla</string>
+  <string name="i_identiy_my_gender_as">ମୁଁ ମୋର ଲିଙ୍ଗକୁ ଏହିପରି ଚିହ୍ନଟ କରେ…</string>
 </resources>

@@ -6,7 +6,7 @@
   <string name="phone_number">फोन नम्बर</string>
   <string name="msg_input_phone_number">Karya के आपन खाता बनावे खातिर राउर फोन नंबर के जरूरत होला. अगर रउरा मौजूदा यूजर बानी त आपन रजिस्टर्ड फोन नंबर के इस्तेमाल करीं.</string>
   <string name="otp_title">OTP वेरिफिकेशन</string>
-  <string name="msg_input_otp">%s के भेजल %s अंक के OTP दर्ज करीं</string>
+  <string name="msg_input_otp">%2$s के भेजल %1$s अंक के OTP दर्ज करीं</string>
   <string name="otp">OTP</string>
   <string name="msg_otp_not_received">OTP ना मिलल</string>
   <string name="unable_to_generate_otp">हमनी के एह फोन नंबर खातिर OTP ना बना पवनी जा। कृपया नंबर चेक करीं आ बाद में फेर से कोशिश करीं.</string>
@@ -344,4 +344,7 @@
   <string name="missing_zipcode_from_id">आईडी से जिपकोड पढ़े में सक्षम नइखे</string>
   <string name="user_age_not_between_18_and_120">राउर उमिर 18 से 120 के बीच होखे के चाहीं</string>
   <string name="missing_name_from_id">आईडी से पूरा नाम ना पढ़ पावेला</string>
+  <string name="do_you_want_to_scan_adhaar">का रउरा तेजी से रजिस्ट्रेशन खातिर आपन आधार कार्ड स्कैन कइल चाहत बानी?</string>
+  <string name="enter_full_name_with_example">आपन पूरा नाम जरूर लिखीं। राउर पूरा नाम राउर पहिला नाम आ अंतिम नाम के एक संगे लिखल जाव, जइसे कि: अनुराग शुक्ल</string>
+  <string name="i_identiy_my_gender_as">हम आपन लिंग के पहचान......</string>
 </resources>

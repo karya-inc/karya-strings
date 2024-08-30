@@ -6,7 +6,7 @@
   <string name="phone_number">Phone number</string>
   <string name="msg_input_phone_number">Nangn·ni account-ko kulina Karya nang·ni phone number-ko nanga. Na·a iako skangan jakkalgipa ong·ode, nang·ni register kagimin phone number-ko jakkalbo.</string>
   <string name="otp_title">OTP verify ka·ani</string>
-  <string name="msg_input_otp">%s ona watatgipa OTP %s digit ko gapatbo</string>
+  <string name="msg_input_otp">%2$s ona watatgipa OTP %1$s digit ko gapatbo</string>
   <string name="otp">OTP</string>
   <string name="msg_otp_not_received">OTP-ko man·sokuja</string>
   <string name="unable_to_generate_otp">Chinga ia phone numberna OTP ko bikotna man·jaenga. Ka·sapae numberko name nitaibo ba ja·mano dake nitaibo</string>
@@ -344,4 +344,7 @@
   <string name="missing_zipcode_from_id">ID-oniko zipcode-ko poraina man·jaenga</string>
   <string name="user_age_not_between_18_and_120">Nang·ni bilsi 18 aro 120 ni gisepo ong·na nanggen.</string>
   <string name="missing_name_from_id">Nang·ni ID-oniko chu·gimik bimingko poraina man·jaenga</string>
+  <string name="do_you_want_to_scan_adhaar">Na·a registration ka·aniko tarakatna gita nang·ni adhar cardko scan ka·na skama?</string>
+  <string name="enter_full_name_with_example">Ka·sapae nang·ni chu·gimik bimingko gapatbo. Nang·ni chu·gimik bimingara nang·ni skanggipa biming aro bon·chotgipa bimingko apsan seani ong·a jekai Anurag Shukla</string>
+  <string name="i_identiy_my_gender_as">Angni genderko mesokaniko dakbo jekai…</string>
 </resources>

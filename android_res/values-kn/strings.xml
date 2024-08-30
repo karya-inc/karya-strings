@@ -6,7 +6,7 @@
   <string name="phone_number">ದೂರವಾಣಿ ಸಂಖ್ಯೆ</string>
   <string name="msg_input_phone_number">ನಿಮ್ಮ ಖಾತೆಯನ್ನು ರಚಿಸಲು ಕಾರ್ಯಾಗೆ ನಿಮ್ಮ ದೂರವಾಣಿ ಸಂಖ್ಯೆಯ ಅಗತ್ಯವಿದೆ. ನೀವು ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಬಳಕೆದಾರರಾಗಿದ್ದರೆ, ನಿಮ್ಮ ನೋಂದಾಯಿತ ದೂರವಾಣಿ ಸಂಖ್ಯೆಯನ್ನು ಬಳಸಿ.</string>
   <string name="otp_title">OTP ಪರಿಶೀಲನೆ</string>
-  <string name="msg_input_otp">%s ಗೆ ಕಳುಹಿಸಲಾದ %s ಅಂಕಿಯ OTP ಅನ್ನು ನಮೂದಿಸಿ</string>
+  <string name="msg_input_otp">%2$s ಗೆ ಕಳುಹಿಸಲಾದ %1$s ಅಂಕೆಯ OTP ನಮೂದಿಸಿ</string>
   <string name="otp">OTP</string>
   <string name="msg_otp_not_received">OTP ಸ್ವೀಕರಿಸಲಿಲ್ಲ</string>
   <string name="unable_to_generate_otp">ಈ ದೂರವಾಣಿ ಸಂಖ್ಯೆಗೆ OTP ಅನ್ನು ರಚಿಸಲು ನಮಗೆ ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ದಯವಿಟ್ಟು ಸಂಖ್ಯೆಯನ್ನು ಪರಿಶೀಲಿಸಿ ಅಥವಾ ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.</string>
@@ -344,4 +344,7 @@
   <string name="missing_zipcode_from_id">ID ಯಿಂದ ಪಿನ್‌ಕೋಡ್ ಅನ್ನು ಓದಲು ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ</string>
   <string name="user_age_not_between_18_and_120">ನಿಮ್ಮ ವಯಸ್ಸು 18 ಮತ್ತು 120 ರ ನಡುವೆ ಇರಬೇಕು</string>
   <string name="missing_name_from_id">ID ಯಿಂದ ಪೂರ್ಣ ಹೆಸರನ್ನು ಓದಲು ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ</string>
+  <string name="do_you_want_to_scan_adhaar">ತ್ವರಿತ ನೋಂದಣಿಗಾಗಿ ನಿಮ್ಮ ಆಧಾರ್ ಕಾರ್ಡ್ ಅನ್ನು ಸ್ಕ್ಯಾನ್ ಮಾಡಲು ನೀವು ಬಯಸುವಿರಾ?</string>
+  <string name="enter_full_name_with_example">ದಯವಿಟ್ಟು ನಿಮ್ಮ ಪೂರ್ಣ ಹೆಸರನ್ನು ನಮೂದಿಸಿ. ನಿಮ್ಮ ಪೂರ್ಣ ಹೆಸರು ನಿಮ್ಮ ಮೊದಲ ಹೆಸರು ಮತ್ತು ಕೊನೆಯ ಹೆಸರನ್ನು ಒಟ್ಟಿಗೆ ಬರೆಯಲಾಗಿದೆ, ಉದಾ: ಅನುರಾಗ್ ಶುಕ್ಲಾ</string>
+  <string name="i_identiy_my_gender_as">ನಾನು ನನ್ನ ಲಿಂಗವನ್ನು ಹೀಗೆ ಗುರುತಿಸುತ್ತೇನೆ...</string>
 </resources>

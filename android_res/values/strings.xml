@@ -6,7 +6,7 @@
   <string name="phone_number">Phone Number</string>
   <string name="msg_input_phone_number">Karya requires your phone number to create your account. If you are an existing user, use your registered phone number.</string>
   <string name="otp_title">OTP Verification</string>
-  <string name="msg_input_otp">Enter the %s digit OTP sent to %s</string>
+  <string name="msg_input_otp">Enter the %1$s digit OTP sent to %2$s</string>
   <string name="otp">OTP</string>
   <string name="msg_otp_not_received">Did not receive OTP</string>
   <string name="unable_to_generate_otp">We could not generate an OTP for this phone number. Please check the number or try again later.</string>
@@ -344,4 +344,7 @@
   <string name="missing_zipcode_from_id">Not able to read zipcode from the ID</string>
   <string name="user_age_not_between_18_and_120">Your age should be between 18 and 120</string>
   <string name="missing_name_from_id">Not able to read full name from the ID</string>
+  <string name="do_you_want_to_scan_adhaar">Do you want to scan your aadhar card for faster registration?</string>
+  <string name="enter_full_name_with_example">Please enter your full name. Your full name is your first name and last name written together, e.g: Anurag Shukla </string>
+  <string name="i_identiy_my_gender_as">I identify my gender as…</string>
 </resources>

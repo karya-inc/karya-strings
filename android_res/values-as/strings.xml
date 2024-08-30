@@ -4,9 +4,9 @@
   <string name="lang_name">অসমীয়া</string>
   <string name="continue_in_lang">অসমীয়াত অব্যাহত ৰাখক</string>
   <string name="phone_number">ফোন নম্বৰ</string>
-  <string name="msg_input_phone_number">6 આંકડાનો %s પર મોકલેલ OTP એન્ટર કરો.</string>
+  <string name="msg_input_phone_number">আপোনাৰ একাউণ্ট তৈয়াৰ কৰিবলৈ Karya’ক আপোনাৰ ফোন নম্বৰৰ প্ৰয়োজন। যদি আপুনি এজন বৰ্তমানৰ ব্যৱহাৰকাৰী, তেন্তে আপোনাৰ পঞ্জীয়নভুক্ত ফোন নম্বৰ ব্যৱহাৰ কৰক।</string>
   <string name="otp_title">OTP পৰীক্ষণ</string>
-  <string name="msg_input_otp">%s লৈ প্ৰেৰণ কৰা %s ৰ অংকৰ OTP প্ৰবিষ্ট কৰক</string>
+  <string name="msg_input_otp">%2$s লৈ প্ৰেৰণ কৰা %1$s ৰ অংকৰ OTP প্ৰবিষ্ট কৰক</string>
   <string name="otp">OTP</string>
   <string name="msg_otp_not_received">OTP পোৱা নাই</string>
   <string name="unable_to_generate_otp">এই ফোন নম্বৰৰ বাবে আমি OTP সৃষ্টি কৰিব পৰা নাছিলো। অনুগ্ৰহ কৰি নম্বৰটো পৰীক্ষা কৰক বা পিছত পুনৰ চেষ্টা কৰক।</string>
@@ -344,4 +344,7 @@
   <string name="missing_zipcode_from_id">ID পৰা zipcode পঢ়িবলৈ সক্ষম নহয়।</string>
   <string name="user_age_not_between_18_and_120">আপোনাৰ বয়স ১৮ ৰ পৰা ১২০ বছৰৰ ভিতৰত হ’ব লাগিব।</string>
   <string name="missing_name_from_id">ID পৰা সম্পূৰ্ণ নাম পঢ়িবলৈ সক্ষম নহয়।</string>
+  <string name="do_you_want_to_scan_adhaar">দ্ৰুত পঞ্জীয়নৰ বাবে AADHAR কাৰ্ড স্কেন কৰিব বিচাৰেনে?</string>
+  <string name="enter_full_name_with_example">দয়া কৰি আপোনাৰ সম্পূৰ্ণ নাম প্ৰৱিষ্ট কৰক। আপোনাৰ সম্পূৰ্ণ নাম হৈছে আপোনাৰ প্ৰথম নাম আৰু শেষ নাম একেলগে লিখা, উদাহৰণস্বৰূপ: Anurag Shukla</string>
+  <string name="i_identiy_my_gender_as">মই মোৰ লিংগ হিচাপে চিহ্নিত কৰোঁ…</string>
 </resources>

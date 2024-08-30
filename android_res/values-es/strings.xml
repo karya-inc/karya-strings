@@ -6,7 +6,7 @@
   <string name="phone_number">Número de teléfono</string>
   <string name="msg_input_phone_number">Karya requiere su número de teléfono para crear su cuenta. Si ya es usuario, utilice su número de teléfono registrado.</string>
   <string name="otp_title">Verificación OTP</string>
-  <string name="msg_input_otp">Ingrese el OTP de %s dígitos mandado a %s</string>
+  <string name="msg_input_otp">Ingrese el OTP de %1$s  dígitos mandado a %2$s</string>
   <string name="otp">OTP</string>
   <string name="msg_otp_not_received">No recibí OTP</string>
   <string name="unable_to_generate_otp">No pudimos generar una OTP para este número de teléfono. Por favor verifique el número o vuelva a intentarlo más tarde.</string>
@@ -39,9 +39,6 @@
   <string name="access_code_already_used">El código de acceso ya está registrado con un número de teléfono diferente. Comuníquese con el coordinador para obtener un nuevo código de acceso.</string>
   <string name="invalid_otp">Ha ingresado una OTP inválida.</string>
   <string name="reset_assignment_warning">Faltaron algunos archivos de salida.</string>
-  <string name="upload_file_error">Error al cargar archivos. Por favor contacte a su coordinador.</string>
-  <string name="send_db_error">Error al enviar tareas. Por favor contacte a su coordinador.</string>
-  <string name="receive_db_error">Error al recibir tareas. Por favor contacte a su coordinador.</string>
   <string name="download_file_error">Error al descargar archivos. Por favor contacte a su coordinador.</string>
   <string name="received_verified_error">Error al recibir validaciones. Por favor contacte a su coordinador.</string>
   <string name="dashboard">Panel</string>
