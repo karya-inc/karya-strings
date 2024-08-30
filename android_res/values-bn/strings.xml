@@ -6,7 +6,7 @@
   <string name="phone_number">ফোন নম্বর</string>
   <string name="msg_input_phone_number">আপনার একাউন্ট তৈরি করতে Karya-র আপনার ফোন নম্বর এর প্রয়োজন। আপনি যদি একজন বিদ্যমান ব্যবহারকারী হন তাহলে আপনি আপনার রেজিস্টার করা ফোন নম্বরটি ব্যবহার করুন।</string>
   <string name="otp_title">OTP যাচাইকরণ</string>
-  <string name="msg_input_otp">%s এ পাঠানো  %s সংখ্যার OTP টি লিখুন।</string>
+  <string name="msg_input_otp">%2$s এ পাঠানো %1$s সংখ্যার OTP টি লিখুন।</string>
   <string name="otp">OTP</string>
   <string name="msg_otp_not_received">OTP পাওয়া যায়নি।</string>
   <string name="unable_to_generate_otp">আমরা এই ফোন নাম্বার এর জন্য কোনো OTP তৈরি করতে পারছি না। অনুগ্রহ করে নাম্বারটি যাচাই করুন অথবা পরে আবার চেষ্টা করুন।</string>
@@ -344,4 +344,7 @@
   <string name="missing_zipcode_from_id">ID থেকে জিপকোড পড়তে সক্ষম নয় </string>
   <string name="user_age_not_between_18_and_120">আপনার বয়স ১৮ থেকে ১২০-এর মধ্যে হওয়া উচিত</string>
   <string name="missing_name_from_id">ID থেকে পুরো নাম পড়তে সক্ষম নয় </string>
+  <string name="do_you_want_to_scan_adhaar">আপনি কি দ্রুত রেজিস্ট্রেশনের জন্য আপনার AADHAR কার্ড স্ক্যান করতে চান?</string>
+  <string name="enter_full_name_with_example">অনুগ্রহ করে আপনার পুরো নাম লিখুন। আপনার পুরো নামে আপনার প্রথম নাম এবং শেষ নাম একসাথে লেখা হবে, যেমন: অনুরাগ শুক্লা</string>
+  <string name="i_identiy_my_gender_as">আমি আমার লিঙ্গ এভাবে শনাক্ত করি...</string>
 </resources>

@@ -6,7 +6,7 @@
   <string name="phone_number">தொலைபேசி எண்</string>
   <string name="msg_input_phone_number">உங்கள் கணக்கை உருவாக்க கார்யாவுக்கு உங்கள் ஃபோன் எண் தேவை. நீங்கள் ஏற்கனவே பயனராக இருந்தால், உங்கள் பதிவு செய்யப்பட்ட தொலைபேசி எண்ணைப் பயன்படுத்தவும்.</string>
   <string name="otp_title">OTP சரிபார்ப்பு</string>
-  <string name="msg_input_otp">%s க்கு அனுப்பப்பட்ட %s இலக்க OTP ஐ உள்ளிடவும்</string>
+  <string name="msg_input_otp">%2$s க்கு அனுப்பப்பட்ட  %1$s இலக்க OTP ஐ உள்ளிடவும்</string>
   <string name="otp">OTP</string>
   <string name="msg_otp_not_received">OTP பெறவில்லை</string>
   <string name="unable_to_generate_otp">இந்த தொலைபேசி எண்ணுக்கு OTP ஐ உருவாக்க முடியவில்லை.எண்ணை சரிபார்க்கவும் அல்லது பின்னர் மீண்டும் முயற்சிக்கவும்.</string>
@@ -344,4 +344,7 @@
   <string name="missing_zipcode_from_id">ஐடியிலிருந்து அஞ்சல் குறியீட்டை படிக்க முடியவில்லை</string>
   <string name="user_age_not_between_18_and_120">உங்களுடைய வயது 18 முதல் 120க்குள் இருக்க வேண்டும்</string>
   <string name="missing_name_from_id">ஐடியிலிருந்து முழுப் பெயரையும் படிக்க முடியவில்லை</string>
+  <string name="do_you_want_to_scan_adhaar">விரைவான பதிவுக்காக உங்கள் ஆதார் அட்டையை ஸ்கேன் செய்ய விரும்புகிறீர்களா?</string>
+  <string name="enter_full_name_with_example">தயவு செய்து உங்கள் முழுப் பெயரை உள்ளிடவும். உங்களின் முழுப்பெயர் உங்களின் முதல் பெயர் மற்றும் கடைசி பெயர் ஒன்றாக எழுதப்பட்டுள்ளது, எ.கா: அனுராக் சுக்லா</string>
+  <string name="i_identiy_my_gender_as">நான் என் பாலினத்தை அடையாளம் காண்கிறேன்…</string>
 </resources>
